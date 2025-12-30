@@ -1,0 +1,537 @@
+source,target,label
+Norepinephrine,Clozapine,Component-Whole
+Amino acids,Glutamic acid,Component-Whole
+Chicken,Aspergillus oryzae,Component-Whole
+before epidural Morphine,of epidural Morphine,Cause-Effect
+Histamine,Bicalutamide,Component-Whole
+Metronidazole,4-Methylimidazole,Cause-Effect
+Polyvinyl alcohol,Methylcellulose,Component-Whole
+Water,Propylene glycol,Component-Whole
+Ivarmacitinib,Delgocitinib,Component-Whole
+"However, increasing Mannose",of cation-independent Mannose,Cause-Effect
+Bacillus subtilis,Caffeine,Cause-Effect
+Montelukast,Cyclosporine,Component-Whole
+Cyclosporine,Dapsone,Component-Whole
+Dapsone,Hydroxychloroquine,Component-Whole
+Acetate,Polyethylene glycol,Component-Whole
+Triamcinolone,Polysorbate 80,Component-Whole
+Calcium,Iron,Component-Whole
+Calcium,Oxygen,Component-Whole
+Parthenolide,Paclitaxel,Cause-Effect
+Wheat,Nitrogen,Cause-Effect
+"Regarding interactions, Wheat","contents, whereas Wheat",Cause-Effect
+Wheat,common bread Wheat,Cause-Effect
+Recombinant human Thrombopoietin,antibodies of Thrombopoietin,Component-Whole
+Eltrombopag,Hydrogen,Component-Whole
+Fusarium graminearum,Wheat,Cause-Effect
+Cadmium,Chromium,Cause-Effect
+Water,than low-mineral Water,Cause-Effect
+AIV in Poultry,the global Poultry,Cause-Effect
+Amino acids,Tryptophan,Component-Whole
+Ketamine,Esketamine,Component-Whole
+Mangostin,Tetrodotoxin,Component-Whole
+Remimazolam,Remifentanil,Cause-Effect
+Codeine,Opium,Component-Whole
+Iron,Zinc,Cause-Effect
+Titanium,Cobalt,Cause-Effect
+Angiotensin II,Aldosterone,Cause-Effect
+Cadmium,Vanadium,Cause-Effect
+Zinc,Iron,Cause-Effect
+Irinotecan,SN-38,Cause-Effect
+Morphine,SN-38,Cause-Effect
+Phenol,Povidone,Component-Whole
+Amino acids,Arginine,Component-Whole
+Glutathione,Ascorbic acid,Component-Whole
+Glutathione,Potato,Component-Whole
+Ammonia,Poultry,Component-Whole
+broth or Wheat,more than Wheat,Cause-Effect
+Silicon,Calcitonin gene-related peptide,Cause-Effect
+Trehalose,Peach,Cause-Effect
+Carnosine,Cysteine,Component-Whole
+Shrimp,Alanine,Cause-Effect
+Amino acids,Alanine,Component-Whole
+Oxygen,Hydrogen,Component-Whole
+Ibrutinib,Water,Cause-Effect
+Nitrite,Nitrate,Cause-Effect
+Cucumber,Escherichia coli,Cause-Effect
+Pectin,Sucrose,Cause-Effect
+Yeast,Inositol,Component-Whole
+Zanubrutinib,Ibrutinib,Component-Whole
+Turmeric,Curcumin,Component-Whole
+Acetate,Chloroform,Component-Whole
+Selenium,Selenocysteine,Component-Whole
+Tryptophan,Leucine,Cause-Effect
+functions in Wheat,improvement of Wheat,Component-Whole
+Glutathione,Sucrose,Component-Whole
+Water,Hydrogen,Component-Whole
+Chromium,Antimony,Cause-Effect
+Indole,Serotonin,Cause-Effect
+co-administered with Tenofovir,that include Tenofovir,Cause-Effect
+Dexamethasone,Lenalidomide,Component-Whole
+Lettuce,"1,3-Propanediol",Cause-Effect
+Glutathione,Water,Cause-Effect
+Coconut,Sorbitol,Component-Whole
+Grape,Water,Component-Whole
+Wheat,5-Hydroxymethylfurfural,Component-Whole
+Oxygen,Soybean,Component-Whole
+Cisplatin,Vincristine,Component-Whole
+Amino acids,Arginine,Component-Whole
+Salicylic acid,Formic acid,Component-Whole
+Ranolazine,Quercetin,Component-Whole
+Shrimp,Alkaline Phosphatase,Component-Whole
+Caffeine,Dopamine,Cause-Effect
+Almond,Water,Component-Whole
+Olanzapine,Aprepitant,Component-Whole
+Metoclopramide,Ondansetron,Component-Whole
+Granisetron,Aprepitant,Component-Whole
+Losartan,Telmisartan,Cause-Effect
+Selenium,Alternaria alternata,Cause-Effect
+with four Potassium,0 (no Potassium,Component-Whole
+Alkaline Phosphatase,Potassium,Cause-Effect
+Curcumin,Alkaline Phosphatase,Component-Whole
+Clarithromycin,Minocycline,Component-Whole
+Nitrite,Oxygen,Cause-Effect
+Quercetin,Carboxymethylcellulose,Component-Whole
+Melatonin,Amino acids,Component-Whole
+Amino acids,Glutathione,Component-Whole
+Barley,Glutathione,Component-Whole
+Clove,Eugenol,Component-Whole
+Valproic acid,Brivaracetam,Component-Whole
+Insulin human,Insulin glargine,Component-Whole
+Insulin glargine,Insulin detemir,Component-Whole
+Imidazole,Ammonia,Component-Whole
+Iron,Selenium,Cause-Effect
+Olive oil,Soybean,Cause-Effect
+Herring,Ethanol,Component-Whole
+contents in Pea,mortality when Pea,Cause-Effect
+content in Pea,mortality when Pea,Cause-Effect
+Soybean,Egg,Component-Whole
+Soybean,Egg,Component-Whole
+Prothrombin,Thrombin,Component-Whole
+Phenol,Trypsin,Component-Whole
+Xylazine,Fentanyl,Component-Whole
+Lidocaine,Xylazine,Cause-Effect
+Tryptophan,Kynurenine,Component-Whole
+Rice,Coenzyme A,Component-Whole
+Tetracycline,Water,Component-Whole
+Zinc,Oxygen,Component-Whole
+Carbazole,Ozone,Cause-Effect
+Daunorubicin,Copper,Component-Whole
+Tobramycin,Colistin,Cause-Effect
+Polyvinyl alcohol,Rhodamine 6G,Component-Whole
+Furfural,Sulfuric acid,Cause-Effect
+5-Hydroxymethylfurfural,Maleic acid,Component-Whole
+N-Acetylglucosamine,Uridine,Cause-Effect
+Water,Arginine,Component-Whole
+Nitrogen,HEPE,Component-Whole
+Ciprofloxacin,Pseudomonas aeruginosa,Component-Whole
+Bacillus subtilis,Escherichia coli,Component-Whole
+Ascorbic acid,Bacillus subtilis,Component-Whole
+Bacillus subtilis,Escherichia coli,Component-Whole
+Pseudomonas aeruginosa,Candida albicans,Component-Whole
+Daidzin,Isoflavone,Component-Whole
+"flora, the Daidzin",transformation of Daidzin,Cause-Effect
+B2) and Daidzin,metabolites of Daidzin,Cause-Effect
+Chlortetracycline,Bacillus subtilis,Component-Whole
+Eurotium amstelodami,Bacillus licheniformis,Component-Whole
+Thiamine,difference in Thiamine,Component-Whole
+Dexamethasone,Meloxicam,Component-Whole
+Copper,Graphite,Component-Whole
+Honey,Water,Component-Whole
+Amino acids,N-Acetylglucosamine,Component-Whole
+Bacteroides thetaiotaomicron,Streptococcus salivarius,Component-Whole
+Cesium,Water,Cause-Effect
+Bacillus cereus,Bacillus subtilis,Cause-Effect
+Bacillus cereus,Candida albicans,Component-Whole
+"analyses, the Silver",approximately 35 Silver,Component-Whole
+Serine,Fibrin,Component-Whole
+Hydrogen,Thrombin,Component-Whole
+Acetate,Formic acid,Component-Whole
+Banana,Fusarium oxysporum,Cause-Effect
+Soybean,Egg,Cause-Effect
+Plasminogen,Amino acids,Component-Whole
+Hypochlorous acid,Oxygen,Component-Whole
+Oxygen,Rose bengal,Cause-Effect
+Cysteamine or Lipoic acid,based on Lipoic acid,Component-Whole
+Nitrate,4-Nitrocatechol,Component-Whole
+Enterococcus faecium,Vancomycin,Component-Whole
+Pectin,Rhamnose,Component-Whole
+Oat,Millet seed,Component-Whole
+Water,Formic acid,Component-Whole
+h of Water,1% and Water,Component-Whole
+Gelatin,Water,Component-Whole
+Serine,Amino acids,Component-Whole
+Chromium,Zinc,Cause-Effect
+Copper,Sulfamethoxazole,Cause-Effect
+formulated for Ethanol,to final Ethanol,Component-Whole
+Egg,Water,Cause-Effect
+composition of Egg,characteristics of Egg,Cause-Effect
+Chloroform,Water,Component-Whole
+Zinc,Oxygen,Component-Whole
+Silver,Oyster,Component-Whole
+Barium,Copper,Cause-Effect
+Honey,additions to Honey,Component-Whole
+Amino acids,Honey,Component-Whole
+Piperonyl butoxide,Honey,Component-Whole
+Honey,Coumapho,Component-Whole
+Iron,Water,Cause-Effect
+Urea,Nitrogen,Component-Whole
+Nitrogen,Chlorine,Cause-Effect
+Cadmium,Chromium,Cause-Effect
+Cadmium,Zinc,Cause-Effect
+Copper,Cadmium,Cause-Effect
+Tetramethylammonium,Silver,Component-Whole
+Clopidogrel,Formic acid,Component-Whole
+Silanol,Silicon,Cause-Effect
+Pectin,Ethanol,Component-Whole
+Water,Formic acid,Component-Whole
+Dichlorvo,Carbendazim,Component-Whole
+"including acetochlor, Atrazine","3-hydroxycarbofuran, deethyl Atrazine",Component-Whole
+Rice,Choline,Cause-Effect
+Rice,Sakuranetin,Component-Whole
+Water,Menaquinone,Component-Whole
+Broccoli,Quercetin,Component-Whole
+Pomegranate,Ellagic acid,Component-Whole
+Tocopherol,Whey,Component-Whole
+Benzoic acid,Aminobenzoic acid,Component-Whole
+of various Oxygen,for the Oxygen,Component-Whole
+Hydrogen,Phenol,Component-Whole
+Oxygen,Hydrogen,Component-Whole
+Phenol,M-Cresol,Cause-Effect
+Oxygen,Nitrogen,Component-Whole
+Water,Phosphoru,Component-Whole
+ATP,Hydrogen,Component-Whole
+Ergosterol,Hydrogen,Component-Whole
+Ethanol,Perchlorate,Component-Whole
+Ammonia,Carbon dioxide,Cause-Effect
+Glucose oxidase,Hydrogen,Cause-Effect
+Copper,Carbon dioxide,Component-Whole
+Chloramphenicol,Thiamphenicol,Component-Whole
+in recognizing Florfenicol,interaction between Florfenicol,Cause-Effect
+Nitrogen,Sodium Acetate,Cause-Effect
+Water,Hydrogen,Cause-Effect
+in vitro Calcium,had comparable Calcium,Cause-Effect
+Calcium,Nifedipine,Cause-Effect
+Fluoxetine,Carbamazepine,Cause-Effect
+Water,Formic acid,Component-Whole
+Choline,Acetylcholine,Component-Whole
+Choline,Betaine,Cause-Effect
+driven by Iron,bilirubin and Iron,Cause-Effect
+Amino acids,Lysine,Component-Whole
+Peanut,Zinc,Component-Whole
+Broccoli,Water,Component-Whole
+Oxygen,Cholesterol,Component-Whole
+Nintedanib,Tocilizumab,Cause-Effect
+Imatinib,Nilotinib,Component-Whole
+Docetaxel,Fluorouracil,Component-Whole
+Dexamethasone,Lenalidomide,Component-Whole
+Linezolid,Oxygen,Component-Whole
+Crizotinib,Platinum,Component-Whole
+Choline,Acetylcholine,Component-Whole
+Buprenorphine,Morphine,Cause-Effect
+Amino acids,Aspartic acid,Component-Whole
+Hydroxychloroquine,Zinc,Component-Whole
+Tryptophan,Kynurenine,Component-Whole
+Acetylcholine,Dopamine,Component-Whole
+Omega-3 fatty acids,Selenium,Component-Whole
+Water,Acetate,Cause-Effect
+Hydrogen,Arginine,Component-Whole
+Psilocybin,Tryptophan,Component-Whole
+Psilocybin,Indium,Component-Whole
+Levetiracetam,Acetate,Cause-Effect
+Levetiracetam,Acetate,Cause-Effect
+Cobalt,Cadmium,Component-Whole
+Iron,Zinc,Cause-Effect
+Homocysteine,Oxygen,Cause-Effect
+Repotrectinib,Creatine,Component-Whole
+Glutathione,Glyphosate,Cause-Effect
+Nitroglycerin,Hyaluronidase,Cause-Effect
+Methoxsalen,Quinoline,Component-Whole
+Glycyrrhiza glabra,Malonaldehyde,Cause-Effect
+Choline,Acetylcholine,Component-Whole
+Acetylcholine,Acetic acid,Cause-Effect
+Dapagliflozin,Vasopressin,Component-Whole
+Fenchone,Miconazole,Component-Whole
+Platinum,Bevacizumab,Component-Whole
+Olaparib,Niraparib,Component-Whole
+Docetaxel,Axitinib,Component-Whole
+Platinum,Cisplatin,Component-Whole
+Platinum,Carboplatin,Component-Whole
+Proline,Galactose,Component-Whole
+Watercres,Pea,Component-Whole
+Garlic,Cadmium,Component-Whole
+Garlic,Cadmium,Cause-Effect
+Iron,Zinc,Cause-Effect
+to synthesize Terpineol,"step, the Terpineol",Component-Whole
+Hemin,Tyrosine,Cause-Effect
+Cysteine,Proline,Component-Whole
+Benzalkonium,Propylene glycol,Component-Whole
+Methadone,Buprenorphine,Component-Whole
+Colistin,Creatinine,Cause-Effect
+along with Chromium,arsenic + Chromium,Cause-Effect
+Chromium,Vitamin E,Cause-Effect
+Sevoflurane,Testosterone,Cause-Effect
+ATP,Fructose,Cause-Effect
+Ponatinib,ATP,Cause-Effect
+Ritonavir,Tacrolimu,Cause-Effect
+Cisplatin,Platinum,Cause-Effect
+prevention of Cisplatin,of developing Cisplatin,Component-Whole
+Naringin,Acetate,Cause-Effect
+Fisetin,Acetate,Cause-Effect
+Ferulic acid,Estradiol,Cause-Effect
+Amino acids,Nitric Oxide,Component-Whole
+sources of Iodine,of an Iodine,Component-Whole
+Iodine,Amiodarone,Component-Whole
+assess population Iodine,of urinary Iodine,Component-Whole
+Iodine,Thyroglobulin,Component-Whole
+Serine,Glutathione,Component-Whole
+Omeprazole,Amoxicillin,Component-Whole
+Omeprazole,Amoxicillin,Component-Whole
+Omeprazole,Amoxicillin,Component-Whole
+Carbon dioxide,Water,Cause-Effect
+Copper,Iron,Cause-Effect
+Fructose,Tryptophan,Cause-Effect
+Choline,Betaine,Component-Whole
+Topiroxostat,Uric acid,Component-Whole
+Latanoprost,which PF Latanoprost,Cause-Effect
+Cadmium,Chromium,Cause-Effect
+Chlorine,Water,Component-Whole
+Formaldehyde,Nitrate,Cause-Effect
+Aniline,Prussian blue,Cause-Effect
+Water,Hydrogen,Cause-Effect
+Hydrogen,Orange,Cause-Effect
+Boric acid,Peracetic acid,Cause-Effect
+Thiram,Glutathione,Cause-Effect
+Glucose oxidase,Oxygen,Cause-Effect
+Oxygen,Hydrogen,Cause-Effect
+Ammonia,Acetic acid,Component-Whole
+Ammonia,Water,Component-Whole
+immobilized with Etorphine,effects of Etorphine,Component-Whole
+Azaperone,Oxygen,Cause-Effect
+Azaperone,Oxygen,Cause-Effect
+Azaperone,Butorphanol,Cause-Effect
+Pilocarpine,Methane,Cause-Effect
+Potassium,Albuterol,Component-Whole
+Berberine,Oxygen,Cause-Effect
+stimulate both Glucagon,reduction than Glucagon,Cause-Effect
+Arginine,Fructose,Cause-Effect
+Fructose,weeks and Fructose,Component-Whole
+Arginine,Fructose,Cause-Effect
+Sorghum,Quercetin,Component-Whole
+Sorghum,Glutathione,Component-Whole
+Zinc,Oxygen,Component-Whole
+Date,Escherichia coli,Component-Whole
+Calcium,Lactic acid,Component-Whole
+Saxagliptin,Water,Cause-Effect
+Melatonin,Propofol,Component-Whole
+Desflurane,Sevoflurane,Cause-Effect
+Amino acids,Copper,Cause-Effect
+of the Iron,sequestering of Iron,Cause-Effect
+Iron,Oxygen,Cause-Effect
+Gelatin,Amino acids,Component-Whole
+Diclofenac,Acrylic Acid,Component-Whole
+Lactic acid,Cadaverine,Cause-Effect
+Water,Dodecyl sulfate,Component-Whole
+Cytochrome C,Levocarnitine,Component-Whole
+Cytochrome C,Levocarnitine,Component-Whole
+Soybean,Water,Cause-Effect
+Potato,Clove,Component-Whole
+Garlic,components of Garlic,Component-Whole
+Gelatin,Epigallocatechin,Component-Whole
+Gelatin,Thymol,Component-Whole
+Polyvinyl alcohol,Ammonia,Component-Whole
+sensitivity for Ammonia,million) for Ammonia,Component-Whole
+MCC,Water,Cause-Effect
+Amino acids,Methionine,Component-Whole
+Citric acid,Amylose,Cause-Effect
+Wheat,Amylose,Component-Whole
+Lactic acid,Rice,Component-Whole
+Rice,Amylose,Cause-Effect
+dose of Methotrexate,day before Methotrexate,Component-Whole
+Fluconazole,Voriconazole,Component-Whole
+Ivacaftor,Tezacaftor,Component-Whole
+to access Iron,that are Iron,Component-Whole
+"1,10-Phenanthroline",Pseudomonas aeruginosa,Cause-Effect
+Tryptophan,P-Cresol,Cause-Effect
+Fibrin,Genipin,Component-Whole
+Mescaline,Serotonin,Cause-Effect
+Carob,Potassium,Component-Whole
+Ethanol,Phenol,Component-Whole
+Uric acid,Potassium,Component-Whole
+Strawberry,Urea,Cause-Effect
+Leptin,Metformin,Cause-Effect
+Pomegranate,Pyridoxine,Cause-Effect
+Water,Fig,Cause-Effect
+Pyrrolidine,Cysteine,Component-Whole
+Bempedoic acid,Ezetimibe,Cause-Effect
+of peripheral Oxygen,patient's lowest Oxygen,Component-Whole
+Water,Formic acid,Component-Whole
+Morphine,Cysteine,Cause-Effect
+Cobalamin,Coenzyme A,Component-Whole
+Vanadium,Selenium,Cause-Effect
+Eculizumab,Ravulizumab,Component-Whole
+Sacituzumab govitecan,SN-38,Component-Whole
+Platinum,Cisplatin,Component-Whole
+Pembrolizumab,Platinum,Component-Whole
+Platinum,Rogaratinib,Component-Whole
+Carboplatin,Doxorubicin,Component-Whole
+Cisplatin,Docetaxel,Component-Whole
+Platinum,Enfortumab vedotin,Component-Whole
+Platinum,Docetaxel,Component-Whole
+Water,Aminosalicylic acid,Component-Whole
+Vedolizumab,Infliximab,Component-Whole
+Selenium,Soybean,Component-Whole
+Water,Dextran,Component-Whole
+Elobixibat,Ascorbic acid,Component-Whole
+Ginsenoside Rg1,Ginsenoside,Component-Whole
+2'-Fucosyllactose,Acetylsalicylic acid,Component-Whole
+Oxygen,Water,Component-Whole
+Water,Hydrogen,Component-Whole
+Hydrogen,Arginine,Component-Whole
+Oxygen,Methane,Component-Whole
+highlight the Paclitaxel,response to Paclitaxel,Component-Whole
+Melatonin,Adenosine,Component-Whole
+Oxygen,Xanthine,Cause-Effect
+Cobalt,Methionine,Component-Whole
+Nitrogen,Cobalamin,Cause-Effect
+Cobalt,Methionine,Component-Whole
+Nitrogen,Cobalamin,Cause-Effect
+Nitric Oxide,Guanosine,Component-Whole
+and the Nirmatrelvir,profile with Nirmatrelvir,Component-Whole
+Tacrolimu,Creatinine,Cause-Effect
+ratio of Tucatinib,for the Tucatinib,Cause-Effect
+Dicloxacillin,Dabigatran,Cause-Effect
+Itraconazole,Rifampin,Cause-Effect
+Pomotrelvir,Ritonavir,Component-Whole
+Cadmium,Cobalt,Cause-Effect
+Cadmium,Cobalt,Cause-Effect
+"adjusted regression, Selenium",at low Selenium,Cause-Effect
+Iodine,Water,Cause-Effect
+Wheat,Bean,Component-Whole
+Nitrogen,Amylose,Component-Whole
+Copper,Benzimidazole,Component-Whole
+Benzimidazole,Chlorine,Component-Whole
+Enrofloxacin,Poultry,Component-Whole
+Fulvestrant,PIK3CA,Component-Whole
+Palbociclib,Ribociclib,Cause-Effect
+Ribociclib,Goserelin,Cause-Effect
+GDC-0152,Paclitaxel,Component-Whole
+Dipyridamole,Cholesterol,Component-Whole
+Lapachone,Oxygen,Cause-Effect
+Potassium,Coconut,Component-Whole
+Coconut,Famotidine,Component-Whole
+of the Dopamine,in the Dopamine,Component-Whole
+Hydrogen,Oxygen,Cause-Effect
+Docetaxel,Polysorbate 80,Cause-Effect
+Deoxycholic acid,Water,Component-Whole
+Ginger,Gingerol,Component-Whole
+Tryptophan,Indole,Component-Whole
+Water,Acetic acid,Component-Whole
+Paroxetine,Serotonin,Component-Whole
+Tryptophan into Indole,indolepyruvate and Indole,Component-Whole
+Indole,Acetic acid,Component-Whole
+Oxygen,Hydrogen,Component-Whole
+Glucosamine,N-Acetylglucosamine,Cause-Effect
+and industrial Water,the lake Water,Component-Whole
+Copper,Zinc,Cause-Effect
+demonstrate that Yeast,in the Yeast,Component-Whole
+Glycine,Trypsin,Component-Whole
+Cadmium,Zinc,Cause-Effect
+chondrocytes in Fibrin,in a Fibrin,Cause-Effect
+Fibrin,Calcium,Cause-Effect
+Water,Chlorine,Component-Whole
+Cefazolin,Vancomycin,Component-Whole
+Cenobamate,Brivaracetam,Cause-Effect
+Trypsin,Arginine,Cause-Effect
+Salicylic acid,Botrytis cinerea,Cause-Effect
+Metoclopramide,Erythromycin,Cause-Effect
+Astaxanthin,Maltodextrin,Component-Whole
+Nitrate,Nitrogen,Cause-Effect
+Phenylalanine,4-hydroxybenzoic acid,Cause-Effect
+Copper,Escherichia coli,Cause-Effect
+Ethanol,ATP,Cause-Effect
+HS the Calcium,the cytoplasmic Calcium,Component-Whole
+Calcium,Tryptophan,Component-Whole
+concentration; and Tryptophan,to catabolizing Tryptophan,Component-Whole
+Tryptophan,Serotonin,Component-Whole
+Apple,Rice,Cause-Effect
+Cadmium,inhalation of Cadmium,Cause-Effect
+Water,Polyethylene glycol,Component-Whole
+ratio in Soybean,of 35S:GmCOL1a Soybean,Cause-Effect
+Tomato,Amino acids,Component-Whole
+Melatonin,Corn,Component-Whole
+Amino acids,Taurine,Component-Whole
+Wheat,Amino acids,Component-Whole
+Glutathione,Cucumber,Cause-Effect
+Ginger,Uracil,Cause-Effect
+Amino acids,Arginine,Component-Whole
+Glutathione,Uric acid,Component-Whole
+Water,in relative Water,Cause-Effect
+Water,Glycine,Cause-Effect
+Carvedilol,Aspartic acid,Component-Whole
+effects of Iron,sources including Iron,Component-Whole
+Copper,Chlorophyll A,Cause-Effect
+Triclosan,Glycine,Component-Whole
+Pineapple,Water,Component-Whole
+Chlorophyll A,Chlorophyll B,Cause-Effect
+Melatonin,Ferulic acid,Cause-Effect
+Beet,Gibberellic acid,Component-Whole
+Gelatin,Zinc,Component-Whole
+Heparin,Dextran,Component-Whole
+Methotrexate,Methylene blue,Cause-Effect
+Eosin,Alkaline Phosphatase,Cause-Effect
+Sofosbuvir,Ribavirin,Component-Whole
+Safflower,Yeast,Component-Whole
+Apixaban,Dabigatran,Component-Whole
+Potato,Tomato,Cause-Effect
+ATP,Leucine,Component-Whole
+ATP,dATP,Component-Whole
+Mometasone,Ranitidine,Component-Whole
+Amino acids,Valine,Component-Whole
+Calcium,Fibrin,Component-Whole
+Cadmium,Antimony,Cause-Effect
+Carbapenem,Meropenem,Cause-Effect
+Carbapenem,Alanine,Component-Whole
+Ropinirole,Methylprednisolone,Component-Whole
+Oxygen,Chicken,Cause-Effect
+Amino acids,Phenylalanine,Component-Whole
+Nitric Oxide,Glutathione,Component-Whole
+Sildenafil,Oxygen,Cause-Effect
+Water,Quercetin,Component-Whole
+Inositol,of an Inositol,Component-Whole
+Lysine,Serine,Component-Whole
+Lysine,Yeast,Component-Whole
+Sulfadiazine,Water,Cause-Effect
+Rivaroxaban,Thrombin,Component-Whole
+Thrombin,Fibrin,Cause-Effect
+Thrombin,Argatroban,Cause-Effect
+Topiramate,Perampanel,Component-Whole
+Theanine,Amino acids,Cause-Effect
+Ketamine,ATP,Cause-Effect
+Sertraline,Serotonin,Component-Whole
+Raphanus sativus,Escherichia coli,Component-Whole
+Testosterone,Spironolactone,Component-Whole
+Clove,Alkaline Phosphatase,Cause-Effect
+Quinoline,Nitrogen,Component-Whole
+Nitrogen,Benzimidazole,Cause-Effect
+find elevated Norepinephrine,catabolism of Norepinephrine,Cause-Effect
+Isopropyl alcohol,Chlorhexidine,Component-Whole
+Niraparib,Olaparib,Component-Whole
+Nitrogen,Arginine,Component-Whole
+Oxygen,NADPH,Cause-Effect
+Polymyxin B,Oxygen,Cause-Effect
+Natamycin,Ergosterol,Component-Whole
+Natamycin,Ergosterol,Component-Whole
+Ergosterol,Natamycin,Component-Whole
+Formic acid,Water,Component-Whole
+Cisplatin,Lobaplatin,Component-Whole
+Amoxicillin,Bacillus subtilis,Component-Whole
+in defining Heparin,reports of Heparin,Component-Whole
+Heparin,Andexanet alfa,Component-Whole
+Heparin,Thrombin,Component-Whole
+Valine,Arginine,Cause-Effect
+Arginine,Asparagine,Cause-Effect
+Oxygen,Adenosine,Cause-Effect
+Olive oil,Bisphenol A,Component-Whole
+Avibactam,Pseudomonas aeruginosa,Component-Whole
+Cholesterol,Phosphatidylethanolamine,Component-Whole

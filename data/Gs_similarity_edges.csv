@@ -1,0 +1,2756 @@
+source,target,similarity
+Norepinephrine,find elevated Norepinephrine,0.921332836
+Norepinephrine,catabolism of Norepinephrine,0.920709848
+Norepinephrine,Acetylcholine,0.880871415
+Norepinephrine,Serotonin,0.877355099
+Norepinephrine,Vasopressin,0.864526927
+Clozapine,Olanzapine,0.955941856
+Clozapine,Fluoxetine,0.889393628
+Clozapine,Paroxetine,0.881118476
+Clozapine,Carbamazepine,0.878469586
+Clozapine,Methadone,0.868697047
+Amino acids,Proline,0.925333798
+Amino acids,Glycine,0.909367204
+Amino acids,Serine,0.904684126
+Amino acids,Ammonia,0.899511218
+Amino acids,Valine,0.899084806
+Glutamic acid,Aspartic acid,0.914365351
+Glutamic acid,Glycine,0.906494379
+Glutamic acid,Valine,0.893730402
+Glutamic acid,Asparagine,0.893532932
+Glutamic acid,Cysteine,0.892751694
+Chicken,Rice,0.960950971
+Chicken,Shrimp,0.959955335
+Chicken,Corn,0.957466602
+Chicken,Apple,0.956789553
+Chicken,Banana,0.953436255
+Aspergillus oryzae,Candida albicans,0.875522435
+Aspergillus oryzae,Fusarium oxysporum,0.836282611
+Aspergillus oryzae,Pseudomonas aeruginosa,0.835862041
+Aspergillus oryzae,Fusarium graminearum,0.835552454
+Aspergillus oryzae,Glycyrrhiza glabra,0.833547056
+before epidural Morphine,of epidural Morphine,0.986401439
+before epidural Morphine,Fentanyl,0.906849563
+before epidural Morphine,Remifentanil,0.899397016
+before epidural Morphine,Buprenorphine,0.89042604
+before epidural Morphine,Morphine,0.887233317
+of epidural Morphine,before epidural Morphine,0.986401439
+of epidural Morphine,Fentanyl,0.904191494
+of epidural Morphine,Remifentanil,0.897009134
+of epidural Morphine,Morphine,0.889812112
+of epidural Morphine,Buprenorphine,0.886382103
+Histamine,Testosterone,0.879135251
+Histamine,Serine,0.877562881
+Histamine,Trypsin,0.874618113
+Histamine,Betaine,0.872287869
+Histamine,Opium,0.869642675
+Bicalutamide,Lobaplatin,0.907785952
+Bicalutamide,Tacrolimu,0.902685225
+Bicalutamide,Tobramycin,0.902017474
+Bicalutamide,Lenalidomide,0.892968655
+Bicalutamide,Remimazolam,0.889870822
+Metronidazole,Miconazole,0.934343636
+Metronidazole,Fluconazole,0.932690918
+Metronidazole,Voriconazole,0.930994093
+Metronidazole,Omeprazole,0.920779526
+Metronidazole,Itraconazole,0.911854029
+4-Methylimidazole,Imidazole,0.936481476
+4-Methylimidazole,Benzimidazole,0.928476393
+4-Methylimidazole,4-hydroxybenzoic acid,0.913140893
+4-Methylimidazole,Dipyridamole,0.903364301
+4-Methylimidazole,5-Hydroxymethylfurfural,0.901968241
+Polyvinyl alcohol,Polysorbate 80,0.900204957
+Polyvinyl alcohol,Isopropyl alcohol,0.895705819
+Polyvinyl alcohol,Carboxymethylcellulose,0.886880755
+Polyvinyl alcohol,Methylcellulose,0.885419667
+Polyvinyl alcohol,Acrylic Acid,0.873418868
+Methylcellulose,Carboxymethylcellulose,0.944038868
+Methylcellulose,Polyvinyl alcohol,0.885419667
+Methylcellulose,Polysorbate 80,0.881100714
+Methylcellulose,Acrylic Acid,0.878149509
+Methylcellulose,Gelatin,0.875328124
+Water,Nitrogen,0.921309471
+Water,Ethanol,0.920243144
+Water,Rice,0.915612698
+Water,Coconut,0.914761782
+Water,Potassium,0.912856221
+Propylene glycol,Polyethylene glycol,0.958326221
+Propylene glycol,Isopropyl alcohol,0.868324935
+Propylene glycol,Carboxymethylcellulose,0.860821724
+Propylene glycol,Polyvinyl alcohol,0.854241014
+Propylene glycol,Methylcellulose,0.85217905
+Ivarmacitinib,Delgocitinib,0.951545238
+Ivarmacitinib,Axitinib,0.940505624
+Ivarmacitinib,Ibrutinib,0.935549438
+Ivarmacitinib,Palbociclib,0.923051119
+Ivarmacitinib,Crizotinib,0.918639362
+Delgocitinib,Ivarmacitinib,0.951545238
+Delgocitinib,Axitinib,0.947828114
+Delgocitinib,Rogaratinib,0.926282763
+Delgocitinib,Ibrutinib,0.92332375
+Delgocitinib,Palbociclib,0.921275496
+"However, increasing Mannose","contents, whereas Wheat",0.890108109
+"However, increasing Mannose","Regarding interactions, Wheat",0.888687551
+"However, increasing Mannose",with four Potassium,0.883227587
+"However, increasing Mannose",mortality when Pea,0.882843971
+"However, increasing Mannose","step, the Terpineol",0.878959596
+of cation-independent Mannose,of an Inositol,0.87016654
+of cation-independent Mannose,Maleic acid,0.869842172
+of cation-independent Mannose,based on Lipoic acid,0.86964494
+of cation-independent Mannose,"However, increasing Mannose",0.869322896
+of cation-independent Mannose,of an Iodine,0.860678792
+Bacillus subtilis,Bacillus cereus,0.942694068
+Bacillus subtilis,Bacillus licheniformis,0.894662261
+Bacillus subtilis,Streptococcus salivarius,0.883391023
+Bacillus subtilis,Enterococcus faecium,0.871064186
+Bacillus subtilis,Escherichia coli,0.869779646
+Caffeine,Cadmium,0.885158241
+Caffeine,Choline,0.883597732
+Caffeine,Fenchone,0.883142114
+Caffeine,Berberine,0.883060813
+Caffeine,Ascorbic acid,0.880928159
+Montelukast,Granisetron,0.899966598
+Montelukast,ratio of Tucatinib,0.894513488
+Montelukast,Ponatinib,0.892215073
+Montelukast,for the Tucatinib,0.887474835
+Montelukast,Rogaratinib,0.885076642
+Cyclosporine,Vincristine,0.868899226
+Cyclosporine,Dicloxacillin,0.857146978
+Cyclosporine,Cisplatin,0.854915798
+Cyclosporine,prevention of Cisplatin,0.839524686
+Cyclosporine,of developing Cisplatin,0.83747071
+Dapsone,dATP,0.92403084
+Dapsone,Ranolazine,0.911735952
+Dapsone,Tezacaftor,0.910554171
+Dapsone,Lapachone,0.904993415
+Dapsone,Xanthine,0.904303133
+Hydroxychloroquine,Chlortetracycline,0.877966821
+Hydroxychloroquine,5-Hydroxymethylfurfural,0.87770164
+Hydroxychloroquine,"3-hydroxycarbofuran, deethyl Atrazine",0.860170722
+Hydroxychloroquine,Metronidazole,0.858624518
+Hydroxychloroquine,4-hydroxybenzoic acid,0.855078459
+Acetate,Acetic acid,0.939893425
+Acetate,Sodium Acetate,0.924481153
+Acetate,Ammonia,0.918093026
+Acetate,Urea,0.910504758
+Acetate,Formic acid,0.905730546
+Polyethylene glycol,Propylene glycol,0.958326221
+Polyethylene glycol,Carboxymethylcellulose,0.877489567
+Polyethylene glycol,Polyvinyl alcohol,0.866841435
+Polyethylene glycol,Methylcellulose,0.844652653
+Polyethylene glycol,Dodecyl sulfate,0.831815183
+Triamcinolone,Chlortetracycline,0.897779107
+Triamcinolone,Metronidazole,0.885217607
+Triamcinolone,Methotrexate,0.878280997
+Triamcinolone,Levocarnitine,0.876559734
+Triamcinolone,Bicalutamide,0.875317693
+Polysorbate 80,Polyvinyl alcohol,0.900204957
+Polysorbate 80,Dextran,0.881733477
+Polysorbate 80,Methylcellulose,0.881100714
+Polysorbate 80,Pectin,0.879202068
+Polysorbate 80,Prussian blue,0.873485565
+Calcium,Potassium,0.937795639
+Calcium,Zinc,0.906410694
+Calcium,Silver,0.895955563
+Calcium,Iron,0.895737052
+Calcium,Betaine,0.88997674
+Iron,Zinc,0.951993585
+Iron,Copper,0.938446045
+Iron,Hemin,0.926758349
+Iron,Platinum,0.922163248
+Iron,Potassium,0.916716576
+Oxygen,Nitrogen,0.914707303
+Oxygen,Ethanol,0.914432645
+Oxygen,Hydrogen,0.908888817
+Oxygen,Silicon,0.908550799
+Oxygen,Iron,0.908329904
+Parthenolide,Bempedoic acid,0.905707955
+Parthenolide,Ergosterol,0.894056678
+Parthenolide,Pomotrelvir,0.889900088
+Parthenolide,Genipin,0.888271749
+Parthenolide,Fisetin,0.88680011
+Paclitaxel,response to Paclitaxel,0.964272439
+Paclitaxel,highlight the Paclitaxel,0.963460088
+Paclitaxel,Cisplatin,0.901965559
+Paclitaxel,Lobaplatin,0.897372365
+Paclitaxel,Carboplatin,0.897352576
+Wheat,Potato,0.974619627
+Wheat,Bean,0.972507298
+Wheat,Rice,0.968069077
+Wheat,Tomato,0.963937283
+Wheat,Banana,0.958700359
+Nitrogen,Rice,0.924260378
+Nitrogen,Corn,0.924182355
+Nitrogen,Bean,0.923786044
+Nitrogen,Potato,0.921565294
+Nitrogen,Water,0.921309471
+"Regarding interactions, Wheat","However, increasing Mannose",0.888687551
+"Regarding interactions, Wheat",effects of Iron,0.884492576
+"Regarding interactions, Wheat",characteristics of Egg,0.884141266
+"Regarding interactions, Wheat","contents, whereas Wheat",0.879025578
+"Regarding interactions, Wheat",mortality when Pea,0.877947509
+"contents, whereas Wheat",contents in Pea,0.898119152
+"contents, whereas Wheat",content in Pea,0.891198754
+"contents, whereas Wheat","However, increasing Mannose",0.890108109
+"contents, whereas Wheat","Regarding interactions, Wheat",0.879025578
+"contents, whereas Wheat",mortality when Pea,0.878656089
+common bread Wheat,Strawberry,0.908070207
+common bread Wheat,Barley,0.905519843
+common bread Wheat,Rhamnose,0.890331745
+common bread Wheat,Broccoli,0.890147507
+common bread Wheat,Millet seed,0.8895818
+Recombinant human Thrombopoietin,antibodies of Thrombopoietin,0.939729512
+Recombinant human Thrombopoietin,chondrocytes in Fibrin,0.860806227
+Recombinant human Thrombopoietin,Prothrombin,0.84355998
+Recombinant human Thrombopoietin,Thyroglobulin,0.83476156
+Recombinant human Thrombopoietin,catabolism of Norepinephrine,0.833557725
+antibodies of Thrombopoietin,Recombinant human Thrombopoietin,0.939729512
+antibodies of Thrombopoietin,Prothrombin,0.856018066
+antibodies of Thrombopoietin,Thyroglobulin,0.84661895
+antibodies of Thrombopoietin,chondrocytes in Fibrin,0.836668491
+antibodies of Thrombopoietin,Plasminogen,0.836191654
+Eltrombopag,Dapagliflozin,0.908989191
+Eltrombopag,Enfortumab vedotin,0.907381415
+Eltrombopag,Andexanet alfa,0.904834032
+Eltrombopag,Olaparib,0.903158307
+Eltrombopag,Rivaroxaban,0.902723491
+Hydrogen,Oxygen,0.908888817
+Hydrogen,Silicon,0.908041775
+Hydrogen,Silver,0.900752544
+Hydrogen,Iron,0.900567889
+Hydrogen,Zinc,0.897304177
+Fusarium graminearum,Fusarium oxysporum,0.922040403
+Fusarium graminearum,Botrytis cinerea,0.878493428
+Fusarium graminearum,Bacillus subtilis,0.852156162
+Fusarium graminearum,Pseudomonas aeruginosa,0.849442005
+Fusarium graminearum,Avibactam,0.843670368
+Cadmium,Opium,0.902751625
+Cadmium,Selenium,0.897619009
+Cadmium,Chlorine,0.896869659
+Cadmium,Chromium,0.891731262
+Cadmium,Cesium,0.891057134
+Chromium,Cobalt,0.924102366
+Chromium,along with Chromium,0.923291802
+Chromium,Selenium,0.907674909
+Chromium,Cesium,0.906989038
+Chromium,Iodine,0.906167388
+than low-mineral Water,at low Selenium,0.895751476
+than low-mineral Water,in relative Water,0.879318833
+than low-mineral Water,million) for Ammonia,0.874050617
+than low-mineral Water,of various Oxygen,0.871242881
+than low-mineral Water,"However, increasing Mannose",0.869754732
+AIV in Poultry,Poultry,0.928995073
+AIV in Poultry,the global Poultry,0.915438592
+AIV in Poultry,contents in Pea,0.895077109
+AIV in Poultry,content in Pea,0.893666804
+AIV in Poultry,in recognizing Florfenicol,0.885732889
+the global Poultry,Poultry,0.925051928
+the global Poultry,AIV in Poultry,0.915438592
+the global Poultry,mortality when Pea,0.879004002
+the global Poultry,content in Pea,0.870548308
+the global Poultry,the lake Water,0.868672848
+Tryptophan,Tryptophan into Indole,0.91442579
+Tryptophan,concentration; and Tryptophan,0.91137141
+Tryptophan,Methionine,0.902367711
+Tryptophan,Leucine,0.898898661
+Tryptophan,Alanine,0.894989789
+Ketamine,Fentanyl,0.903217912
+Ketamine,Propofol,0.902649164
+Ketamine,Lidocaine,0.879020333
+Ketamine,Remifentanil,0.868224382
+Ketamine,Sertraline,0.861280739
+Esketamine,Fenchone,0.915553331
+Esketamine,Almond,0.914230824
+Esketamine,Betaine,0.912748754
+Esketamine,Xylazine,0.911111116
+Esketamine,Thiram,0.909993052
+Mangostin,Genipin,0.917598903
+Mangostin,Psilocybin,0.908679605
+Mangostin,Sakuranetin,0.900346577
+Mangostin,Daidzin,0.894630909
+Mangostin,Zanubrutinib,0.889682949
+Tetrodotoxin,Acetylcholine,0.850477338
+Tetrodotoxin,4-Nitrocatechol,0.842918992
+Tetrodotoxin,Pilocarpine,0.842101991
+Tetrodotoxin,Chlortetracycline,0.812121868
+Tetrodotoxin,Nifedipine,0.808314204
+Remimazolam,Carbazole,0.932200193
+Remimazolam,Linezolid,0.915732861
+Remimazolam,Omeprazole,0.914311588
+Remimazolam,Azaperone,0.9093346
+Remimazolam,Carbendazim,0.908927381
+Remifentanil,Fentanyl,0.918842793
+Remifentanil,Propofol,0.903457046
+Remifentanil,before epidural Morphine,0.899397016
+Remifentanil,of epidural Morphine,0.897009134
+Remifentanil,Sevoflurane,0.890370429
+Codeine,Betaine,0.927174211
+Codeine,Opium,0.921041727
+Codeine,Antimony,0.909138024
+Codeine,Peanut,0.907512724
+Codeine,Dapsone,0.903661668
+Opium,Antimony,0.93884027
+Opium,Peanut,0.931483924
+Opium,Barium,0.931267321
+Opium,Betaine,0.927366197
+Opium,Almond,0.924057424
+Zinc,Copper,0.965969443
+Zinc,Iron,0.951993585
+Zinc,Silver,0.948007464
+Zinc,Potassium,0.93203187
+Zinc,Platinum,0.928731441
+Titanium,Cobalt,0.919211984
+Titanium,Chromium,0.902680874
+Titanium,Vanadium,0.888848901
+Titanium,Graphite,0.887478352
+Titanium,Iodine,0.880883098
+Cobalt,Indium,0.941300333
+Cobalt,Chromium,0.924102366
+Cobalt,Titanium,0.919211984
+Cobalt,Antimony,0.912582517
+Cobalt,Barium,0.911260605
+Angiotensin II,Aldosterone,0.897943914
+Angiotensin II,Plasminogen,0.863697827
+Angiotensin II,Norepinephrine,0.863289475
+Angiotensin II,Losartan,0.845644593
+Angiotensin II,catabolism of Norepinephrine,0.843399704
+Aldosterone,Angiotensin II,0.897943914
+Aldosterone,Losartan,0.858745217
+Aldosterone,catabolism of Norepinephrine,0.858729184
+Aldosterone,Ondansetron,0.858290911
+Aldosterone,find elevated Norepinephrine,0.85790056
+Vanadium,Cobalt,0.906053007
+Vanadium,Chromium,0.893122554
+Vanadium,Indium,0.891216278
+Vanadium,Titanium,0.888848901
+Vanadium,Cesium,0.866909027
+Irinotecan,Carboplatin,0.918690443
+Irinotecan,Cisplatin,0.906137288
+Irinotecan,Lobaplatin,0.904768348
+Irinotecan,Docetaxel,0.901899278
+Irinotecan,Doxorubicin,0.897900939
+SN-38,Esketamine,0.862523377
+SN-38,dATP,0.857168674
+SN-38,Serine,0.854171515
+SN-38,Opium,0.853273869
+SN-38,"However, increasing Mannose",0.852439165
+Morphine,effects of Etorphine,0.936524034
+Morphine,Buprenorphine,0.899685621
+Morphine,Pilocarpine,0.891649187
+Morphine,of epidural Morphine,0.889812112
+Morphine,before epidural Morphine,0.887233317
+Phenol,Bisphenol A,0.935084701
+Phenol,Benzoic acid,0.896228552
+Phenol,Silanol,0.896198273
+Phenol,M-Cresol,0.893476963
+Phenol,P-Cresol,0.892893434
+Povidone,Perampanel,0.890960574
+Povidone,Pomotrelvir,0.883615375
+Povidone,Ponatinib,0.880666196
+Povidone,Ritonavir,0.879471123
+Povidone,Ranitidine,0.879241109
+Arginine,Alanine,0.920802951
+Arginine,Valine,0.913807869
+Arginine,Asparagine,0.91292125
+Arginine,Methionine,0.912646651
+Arginine,Cysteine,0.899348974
+Glutathione,Ascorbic acid,0.897082031
+Glutathione,Cobalamin,0.872679472
+Glutathione,Selenocysteine,0.858742297
+Glutathione,Coenzyme A,0.849083066
+Glutathione,Cysteine,0.848010004
+Ascorbic acid,Glutathione,0.897082031
+Ascorbic acid,Sulfuric acid,0.890001535
+Ascorbic acid,Ferulic acid,0.884179115
+Ascorbic acid,Caffeine,0.880928159
+Ascorbic acid,Citric acid,0.880059719
+Potato,Wheat,0.974619627
+Potato,Bean,0.974025488
+Potato,Tomato,0.973839045
+Potato,Banana,0.971249461
+Potato,Rice,0.970357418
+Ammonia,Urea,0.940173626
+Ammonia,Nitrate,0.932797194
+Ammonia,Hemin,0.923261523
+Ammonia,Acetate,0.918093026
+Ammonia,Methane,0.917218089
+Poultry,AIV in Poultry,0.928995073
+Poultry,the global Poultry,0.925051928
+Poultry,Strawberry,0.919825673
+Poultry,Pea,0.914592803
+Poultry,Peanut,0.911393166
+broth or Wheat,Poultry,0.880040407
+broth or Wheat,Broccoli,0.868753374
+broth or Wheat,Vancomycin,0.867524743
+broth or Wheat,Lactic acid,0.866422534
+broth or Wheat,in vitro Calcium,0.865916193
+more than Wheat,"contents, whereas Wheat",0.876003802
+more than Wheat,composition of Egg,0.873110414
+more than Wheat,characteristics of Egg,0.872856259
+more than Wheat,"However, increasing Mannose",0.868149161
+more than Wheat,content in Pea,0.866909981
+Silicon,Coconut,0.935189307
+Silicon,Corn,0.925465882
+Silicon,Rice,0.92293644
+Silicon,Silver,0.91321981
+Silicon,Potassium,0.911337137
+Calcitonin gene-related peptide,Recombinant human Thrombopoietin,0.820874155
+Calcitonin gene-related peptide,catabolism of Norepinephrine,0.802073598
+Calcitonin gene-related peptide,antibodies of Thrombopoietin,0.801794291
+Calcitonin gene-related peptide,Vasopressin,0.797386169
+Calcitonin gene-related peptide,Thyroglobulin,0.796061158
+Trehalose,Thiram,0.894878864
+Trehalose,Triclosan,0.89356482
+Trehalose,Coumapho,0.892516077
+Trehalose,Esketamine,0.889875174
+Trehalose,Methoxsalen,0.885527015
+Peach,Pea,0.958399177
+Peach,Peanut,0.941408515
+Peach,Barley,0.933404744
+Peach,Strawberry,0.933261156
+Peach,Almond,0.920968056
+Carnosine,Sakuranetin,0.890303552
+Carnosine,Uridine,0.887724102
+Carnosine,Rhamnose,0.887015522
+Carnosine,Thiamine,0.886496305
+Carnosine,Xanthine,0.884667754
+Cysteine,Selenocysteine,0.935970843
+Cysteine,Lysine,0.926570415
+Cysteine,Methionine,0.920320272
+Cysteine,Tyrosine,0.905460596
+Cysteine,Aspartic acid,0.903817236
+Shrimp,Chicken,0.959955335
+Shrimp,Apple,0.955841601
+Shrimp,Rice,0.953943193
+Shrimp,Banana,0.95165354
+Shrimp,Coconut,0.950460434
+Alanine,Valine,0.954007983
+Alanine,Arginine,0.920802951
+Alanine,Leucine,0.920644939
+Alanine,Aspartic acid,0.920068383
+Alanine,Lysine,0.916480303
+Ibrutinib,Axitinib,0.943439424
+Ibrutinib,Rogaratinib,0.936695397
+Ibrutinib,Ivarmacitinib,0.935549438
+Ibrutinib,Zanubrutinib,0.931168497
+Ibrutinib,Crizotinib,0.927959085
+Nitrite,Nitrate,0.950445831
+Nitrite,Sulfuric acid,0.896099389
+Nitrite,Ammonia,0.892543793
+Nitrite,Carbon dioxide,0.877553523
+Nitrite,Perchlorate,0.871863604
+Nitrate,Nitrite,0.950445831
+Nitrate,Ammonia,0.932797194
+Nitrate,Urea,0.907351077
+Nitrate,Acetate,0.905650675
+Nitrate,Serine,0.897600293
+Cucumber,Curcumin,0.893697679
+Cucumber,Berberine,0.873626232
+Cucumber,Pomegranate,0.872853994
+Cucumber,Soybean,0.872735262
+Cucumber,Millet seed,0.86815083
+Escherichia coli,Enterococcus faecium,0.882112086
+Escherichia coli,Bacillus subtilis,0.869779646
+Escherichia coli,Bacillus cereus,0.864852607
+Escherichia coli,Streptococcus salivarius,0.863932133
+Escherichia coli,Erythromycin,0.863560557
+Pectin,Gelatin,0.910344243
+Pectin,Poultry,0.903068721
+Pectin,Xylazine,0.90098083
+Pectin,Almond,0.900419295
+Pectin,Strawberry,0.897459924
+Sucrose,Sodium Acetate,0.894310355
+Sucrose,Lactic acid,0.893141925
+Sucrose,Acetate,0.891470432
+Sucrose,Sorbitol,0.885169983
+Sucrose,Urea,0.879552007
+Yeast,Apple,0.960978866
+Yeast,Bean,0.954542398
+Yeast,Banana,0.954071999
+Yeast,Rice,0.95392102
+Yeast,Potato,0.952567756
+Inositol,of an Inositol,0.95551765
+Inositol,Sorbitol,0.876539528
+Inositol,Choline,0.850178003
+Inositol,Cysteamine or Lipoic acid,0.835270584
+Inositol,Pyridoxine,0.834466457
+Zanubrutinib,Ibrutinib,0.931168497
+Zanubrutinib,Ponatinib,0.918243706
+Zanubrutinib,Rogaratinib,0.910163164
+Zanubrutinib,Topiroxostat,0.904119253
+Zanubrutinib,for the Tucatinib,0.902529061
+Turmeric,Mescaline,0.895529091
+Turmeric,Triclosan,0.892289817
+Turmeric,Thiram,0.889118075
+Turmeric,Silanol,0.883368313
+Turmeric,Lapachone,0.880867362
+Curcumin,Quercetin,0.943019986
+Curcumin,Cucumber,0.893697679
+Curcumin,Berberine,0.893037081
+Curcumin,Ferulic acid,0.892525375
+Curcumin,Sakuranetin,0.886812508
+Chloroform,Hypochlorous acid,0.894688368
+Chloroform,Isopropyl alcohol,0.888926029
+Chloroform,1% and Water,0.878506184
+Chloroform,Methylcellulose,0.874916673
+Chloroform,Chlorine,0.87441361
+Selenium,at low Selenium,0.933693826
+Selenium,Chromium,0.907674909
+Selenium,Selenocysteine,0.903620362
+Selenium,Cesium,0.899453044
+Selenium,Iodine,0.898392797
+Selenocysteine,Cysteine,0.935970843
+Selenocysteine,Selenium,0.903620362
+Selenocysteine,Methionine,0.899162173
+Selenocysteine,at low Selenium,0.893174469
+Selenocysteine,Cysteamine or Lipoic acid,0.891358852
+Leucine,Lysine,0.957102776
+Leucine,Valine,0.928804159
+Leucine,Alanine,0.920644939
+Leucine,Glycine,0.907746553
+Leucine,Aspartic acid,0.901888728
+functions in Wheat,in the Yeast,0.91156435
+functions in Wheat,content in Pea,0.889005184
+functions in Wheat,Strawberry,0.884789705
+functions in Wheat,effects of Iron,0.882155776
+functions in Wheat,contents in Pea,0.879756808
+improvement of Wheat,content in Pea,0.895223677
+improvement of Wheat,Barley,0.892680466
+improvement of Wheat,contents in Pea,0.88685286
+improvement of Wheat,Strawberry,0.873797119
+improvement of Wheat,Sorghum,0.870774508
+Antimony,Opium,0.93884027
+Antimony,Peanut,0.935352504
+Antimony,Almond,0.931230843
+Antimony,Barium,0.926652849
+Antimony,Betaine,0.92476505
+Indole,Imidazole,0.928285003
+Indole,Aniline,0.886178613
+Indole,4-Methylimidazole,0.87994647
+Indole,Quinoline,0.877772868
+Indole,Benzimidazole,0.877399683
+Serotonin,Dopamine,0.912212491
+Serotonin,in the Dopamine,0.89253509
+Serotonin,of the Dopamine,0.891885638
+Serotonin,Norepinephrine,0.877355099
+Serotonin,Melatonin,0.865817666
+co-administered with Tenofovir,that include Tenofovir,0.927160978
+co-administered with Tenofovir,Ribavirin,0.87758863
+co-administered with Tenofovir,Ritonavir,0.870172262
+co-administered with Tenofovir,interaction between Florfenicol,0.865941882
+co-administered with Tenofovir,Voriconazole,0.862428367
+that include Tenofovir,co-administered with Tenofovir,0.927160978
+that include Tenofovir,Ribavirin,0.895540237
+that include Tenofovir,Ritonavir,0.876235008
+that include Tenofovir,Rifampin,0.87069273
+that include Tenofovir,Povidone,0.869814277
+Dexamethasone,day before Methotrexate,0.873402536
+Dexamethasone,Methotrexate,0.872342885
+Dexamethasone,Triamcinolone,0.868558586
+Dexamethasone,dose of Methotrexate,0.865309298
+Dexamethasone,Mometasone,0.857047737
+Lenalidomide,Bicalutamide,0.892968655
+Lenalidomide,Amiodarone,0.855688512
+Lenalidomide,Crizotinib,0.855333686
+Lenalidomide,Lobaplatin,0.850174963
+Lenalidomide,Irinotecan,0.850111365
+Lettuce,Soybean,0.890459001
+Lettuce,Barley,0.881287575
+Lettuce,Broccoli,0.879424512
+Lettuce,Millet seed,0.877820432
+Lettuce,Pineapple,0.8764081
+"1,3-Propanediol",4-Methylimidazole,0.886535645
+"1,3-Propanediol",4-hydroxybenzoic acid,0.874060631
+"1,3-Propanediol",Isopropyl alcohol,0.871783257
+"1,3-Propanediol",4-Nitrocatechol,0.871516049
+"1,3-Propanediol","1,10-Phenanthroline",0.869655907
+Coconut,Rice,0.975191772
+Coconut,Garlic,0.974187136
+Coconut,Apple,0.967739105
+Coconut,Honey,0.965487003
+Coconut,Bean,0.96518141
+Sorbitol,Pectin,0.890863419
+Sorbitol,Xylazine,0.885802925
+Sorbitol,Sucrose,0.885169983
+Sorbitol,Maleic acid,0.877878606
+Sorbitol,Sodium Acetate,0.877105713
+Grape,Potato,0.964192331
+Grape,Tomato,0.956523061
+Grape,Bean,0.956299782
+Grape,Apple,0.955365062
+Grape,Wheat,0.955220342
+5-Hydroxymethylfurfural,"3-hydroxycarbofuran, deethyl Atrazine",0.931796372
+5-Hydroxymethylfurfural,4-hydroxybenzoic acid,0.925675392
+5-Hydroxymethylfurfural,4-Methylimidazole,0.901968241
+5-Hydroxymethylfurfural,Thiamphenicol,0.901794672
+5-Hydroxymethylfurfural,in recognizing Florfenicol,0.89605999
+Soybean,ratio in Soybean,0.947602808
+Soybean,Sorghum,0.921191752
+Soybean,Barley,0.892696619
+Soybean,Lettuce,0.890459001
+Soybean,Millet seed,0.881698072
+Cisplatin,Carboplatin,0.963084102
+Cisplatin,prevention of Cisplatin,0.962019205
+Cisplatin,of developing Cisplatin,0.959552884
+Cisplatin,Lobaplatin,0.948390007
+Cisplatin,Irinotecan,0.906137288
+Vincristine,Daunorubicin,0.889211833
+Vincristine,Cisplatin,0.875974178
+Vincristine,Carboplatin,0.873325348
+Vincristine,of developing Cisplatin,0.869808435
+Vincristine,Cyclosporine,0.868899226
+Salicylic acid,Aminosalicylic acid,0.949241996
+Salicylic acid,Citric acid,0.898619294
+Salicylic acid,Sulfuric acid,0.889105201
+Salicylic acid,Acetylsalicylic acid,0.888146043
+Salicylic acid,Maleic acid,0.887455702
+Formic acid,Maleic acid,0.966335356
+Formic acid,Sulfuric acid,0.964811444
+Formic acid,Peracetic acid,0.941628277
+Formic acid,Acetic acid,0.939860344
+Formic acid,Boric acid,0.927879751
+Ranolazine,Ranitidine,0.950226963
+Ranolazine,Linezolid,0.917006254
+Ranolazine,Levocarnitine,0.91273129
+Ranolazine,Dapsone,0.911735952
+Ranolazine,Granisetron,0.909613192
+Quercetin,Curcumin,0.943019986
+Quercetin,Ergosterol,0.89191556
+Quercetin,Berberine,0.890050411
+Quercetin,Gingerol,0.886540234
+Quercetin,components of Garlic,0.885462999
+Alkaline Phosphatase,Peracetic acid,0.835631013
+Alkaline Phosphatase,Aminobenzoic acid,0.831700265
+Alkaline Phosphatase,Hyaluronidase,0.828053951
+Alkaline Phosphatase,arsenic + Chromium,0.823237121
+Alkaline Phosphatase,Trypsin,0.817717373
+Dopamine,in the Dopamine,0.960185468
+Dopamine,of the Dopamine,0.955449939
+Dopamine,Serotonin,0.912212491
+Dopamine,Acetylcholine,0.866037428
+Dopamine,Morphine,0.864544809
+Almond,Peanut,0.934344351
+Almond,Oat,0.9335621
+Almond,Strawberry,0.931363106
+Almond,Antimony,0.931230843
+Almond,Ginger,0.929767728
+Olanzapine,Clozapine,0.955941856
+Olanzapine,Fluoxetine,0.881372511
+Olanzapine,Paroxetine,0.877099037
+Olanzapine,Carbamazepine,0.871434331
+Olanzapine,Sertraline,0.865274251
+Aprepitant,Eltrombopag,0.881764054
+Aprepitant,Ivacaftor,0.88054198
+Aprepitant,Apixaban,0.877838373
+Aprepitant,Repotrectinib,0.873380244
+Aprepitant,Palbociclib,0.867564559
+Metoclopramide,Valproic acid,0.872256458
+Metoclopramide,Buprenorphine,0.86679709
+Metoclopramide,Clozapine,0.857626677
+Metoclopramide,Paroxetine,0.855395555
+Metoclopramide,Sertraline,0.852540016
+Ondansetron,Granisetron,0.941079438
+Ondansetron,Dapagliflozin,0.889332592
+Ondansetron,Albuterol,0.885658264
+Ondansetron,Ranolazine,0.884927034
+Ondansetron,Losartan,0.883982539
+Granisetron,Ondansetron,0.941079438
+Granisetron,Ranolazine,0.909613192
+Granisetron,Ponatinib,0.9090482
+Granisetron,Brivaracetam,0.908505142
+Granisetron,Perampanel,0.905770659
+Losartan,Carvedilol,0.914240479
+Losartan,Ondansetron,0.883982539
+Losartan,Granisetron,0.875280023
+Losartan,Dabigatran,0.872993588
+Losartan,Nifedipine,0.870332003
+Telmisartan,Ondansetron,0.866930127
+Telmisartan,Granisetron,0.858832121
+Telmisartan,Montelukast,0.854676425
+Telmisartan,Levetiracetam,0.853199482
+Telmisartan,Dapagliflozin,0.852974296
+Alternaria alternata,Ellagic acid,0.864845037
+Alternaria alternata,Bempedoic acid,0.862544298
+Alternaria alternata,Genipin,0.861483574
+Alternaria alternata,Perampanel,0.851909637
+Alternaria alternata,Astaxanthin,0.851231635
+with four Potassium,Antimony,0.892801464
+with four Potassium,Betaine,0.88798368
+with four Potassium,Esketamine,0.887017369
+with four Potassium,of various Oxygen,0.885296702
+with four Potassium,"However, increasing Mannose",0.883227587
+0 (no Potassium,"However, increasing Mannose",0.85664928
+0 (no Potassium,1% and Water,0.856251717
+0 (no Potassium,B2) and Daidzin,0.845986009
+0 (no Potassium,of an Iodine,0.844097257
+0 (no Potassium,with four Potassium,0.843287289
+Potassium,Calcium,0.937795639
+Potassium,Zinc,0.93203187
+Potassium,Ethanol,0.926288128
+Potassium,Rice,0.925273478
+Potassium,Copper,0.921950459
+Clarithromycin,Vancomycin,0.924883842
+Clarithromycin,Erythromycin,0.918623686
+Clarithromycin,Ciprofloxacin,0.902778268
+Clarithromycin,Amoxicillin,0.902407646
+Clarithromycin,Dicloxacillin,0.889529645
+Minocycline,Linezolid,0.908490002
+Minocycline,Tetracycline,0.905833781
+Minocycline,Cenobamate,0.904944181
+Minocycline,Ranolazine,0.900749624
+Minocycline,Pomotrelvir,0.89579916
+Carboxymethylcellulose,Methylcellulose,0.944038868
+Carboxymethylcellulose,Polyvinyl alcohol,0.886880755
+Carboxymethylcellulose,Polyethylene glycol,0.877489567
+Carboxymethylcellulose,Dodecyl sulfate,0.87417388
+Carboxymethylcellulose,Acrylic Acid,0.871502519
+Melatonin,Ondansetron,0.86617142
+Melatonin,Serotonin,0.865817666
+Melatonin,Granisetron,0.863040745
+Melatonin,Pomotrelvir,0.853498876
+Melatonin,Bicalutamide,0.850710392
+Barley,Strawberry,0.93431437
+Barley,Peach,0.933404744
+Barley,Pea,0.924556911
+Barley,Ginger,0.918943644
+Barley,Almond,0.916884124
+Clove,Peanut,0.941906512
+Clove,Oyster,0.92921567
+Clove,Ginger,0.923705995
+Clove,Grape,0.91956085
+Clove,Pea,0.915650904
+Eugenol,Ergosterol,0.880795538
+Eugenol,Lapachone,0.880766571
+Eugenol,Esketamine,0.878332376
+Eugenol,Pectin,0.878149629
+Eugenol,Ellagic acid,0.877934694
+Valproic acid,Metoclopramide,0.872256458
+Valproic acid,Sertraline,0.862891555
+Valproic acid,Levetiracetam,0.858719349
+Valproic acid,Levocarnitine,0.847141504
+Valproic acid,Fluoxetine,0.843221724
+Brivaracetam,Granisetron,0.908505142
+Brivaracetam,Pomotrelvir,0.901696563
+Brivaracetam,Ranolazine,0.901585102
+Brivaracetam,Rivaroxaban,0.895914912
+Brivaracetam,Levocarnitine,0.895537078
+Insulin human,Betaine,0.87456727
+Insulin human,Testosterone,0.87063092
+Insulin human,Goserelin,0.863207579
+Insulin human,Codeine,0.863184571
+Insulin human,Insulin detemir,0.861626148
+Insulin glargine,Insulin detemir,0.866000891
+Insulin glargine,Metformin,0.857357919
+Insulin glargine,reduction than Glucagon,0.84505856
+Insulin glargine,Granisetron,0.834464431
+Insulin glargine,Dapagliflozin,0.833870769
+Insulin detemir,Metformin,0.877119958
+Insulin detemir,Povidone,0.871259809
+Insulin detemir,Ranitidine,0.870877385
+Insulin detemir,formulated for Ethanol,0.866579533
+Insulin detemir,Insulin glargine,0.866000891
+Imidazole,Benzimidazole,0.949387908
+Imidazole,Carbazole,0.938613594
+Imidazole,4-Methylimidazole,0.936481476
+Imidazole,Indole,0.928285003
+Imidazole,Carbendazim,0.917027116
+Olive oil,Strawberry,0.880369365
+Olive oil,Oat,0.880058408
+Olive oil,Whey,0.873150945
+Olive oil,Almond,0.867310703
+Olive oil,Caffeine,0.867066622
+Herring,Oyster,0.935149074
+Herring,Peanut,0.926443696
+Herring,Pea,0.92528677
+Herring,Carob,0.91784358
+Herring,Strawberry,0.915409565
+Ethanol,Honey,0.947739124
+Ethanol,Rice,0.937573075
+Ethanol,Coconut,0.93724072
+Ethanol,Apple,0.935938597
+Ethanol,Bean,0.93134743
+contents in Pea,content in Pea,0.988826513
+contents in Pea,ratio in Soybean,0.908509016
+contents in Pea,"contents, whereas Wheat",0.898119152
+contents in Pea,AIV in Poultry,0.895077109
+contents in Pea,improvement of Wheat,0.88685286
+mortality when Pea,Pea,0.89254868
+mortality when Pea,Poultry,0.888769388
+mortality when Pea,content in Pea,0.886960149
+mortality when Pea,AIV in Poultry,0.883822083
+mortality when Pea,"However, increasing Mannose",0.882843971
+content in Pea,contents in Pea,0.988826513
+content in Pea,ratio in Soybean,0.913414598
+content in Pea,improvement of Wheat,0.895223677
+content in Pea,AIV in Poultry,0.893666804
+content in Pea,"contents, whereas Wheat",0.891198754
+Egg,Apple,0.957302213
+Egg,Chicken,0.95241636
+Egg,Rice,0.950043201
+Egg,Coconut,0.947134972
+Egg,Shrimp,0.946304917
+Prothrombin,Thrombin,0.963650584
+Prothrombin,Plasminogen,0.921265006
+Prothrombin,Fibrin,0.876222372
+Prothrombin,Heparin,0.864458382
+Prothrombin,Trypsin,0.857073843
+Thrombin,Prothrombin,0.963650584
+Thrombin,Plasminogen,0.930407763
+Thrombin,Fibrin,0.902133584
+Thrombin,Trypsin,0.899459243
+Thrombin,Heparin,0.89510572
+Trypsin,Plasminogen,0.902848303
+Trypsin,Thrombin,0.899459243
+Trypsin,Heparin,0.879263639
+Trypsin,Gelatin,0.87861371
+Trypsin,Dapsone,0.876730025
+Xylazine,Xanthine,0.919496834
+Xylazine,Esketamine,0.911111116
+Xylazine,Almond,0.902273834
+Xylazine,Pectin,0.90098083
+Xylazine,Coumapho,0.900237739
+Fentanyl,Propofol,0.919401228
+Fentanyl,Remifentanil,0.918842793
+Fentanyl,before epidural Morphine,0.906849563
+Fentanyl,of epidural Morphine,0.904191494
+Fentanyl,Ketamine,0.903217912
+Lidocaine,Fentanyl,0.900259733
+Lidocaine,Propofol,0.89799273
+Lidocaine,Ranolazine,0.893407524
+Lidocaine,Ranitidine,0.890599787
+Lidocaine,Sertraline,0.88514787
+Kynurenine,Arginine,0.881768465
+Kynurenine,Esketamine,0.879667461
+Kynurenine,Fenchone,0.876977801
+Kynurenine,Cysteine,0.873673499
+Kynurenine,Lysine,0.868098557
+Rice,Bean,0.981994152
+Rice,Coconut,0.975191772
+Rice,Apple,0.973965764
+Rice,Corn,0.973086536
+Rice,Banana,0.972428322
+Coenzyme A,Cobalamin,0.874658823
+Coenzyme A,Glucose oxidase,0.874443293
+Coenzyme A,Cytochrome C,0.856862009
+Coenzyme A,Glutathione,0.849083066
+Coenzyme A,Choline,0.848167002
+Tetracycline,Chlortetracycline,0.948477745
+Tetracycline,Minocycline,0.905833781
+Tetracycline,Carbazole,0.893633485
+Tetracycline,Linezolid,0.893244803
+Tetracycline,Triclosan,0.892324984
+Carbazole,Imidazole,0.938613594
+Carbazole,Remimazolam,0.932200193
+Carbazole,Carbendazim,0.931920767
+Carbazole,Benzimidazole,0.913566887
+Carbazole,Linezolid,0.911734462
+Ozone,Methane,0.912074447
+Ozone,Ammonia,0.90347445
+Ozone,Nitrate,0.893396318
+Ozone,Carbon dioxide,0.891602397
+Ozone,Water,0.883163095
+Daunorubicin,Lobaplatin,0.91747272
+Daunorubicin,Ibrutinib,0.910922229
+Daunorubicin,Crizotinib,0.906028807
+Daunorubicin,Imatinib,0.903014958
+Daunorubicin,Carboplatin,0.899418652
+Copper,Zinc,0.965969443
+Copper,Platinum,0.949097872
+Copper,Iron,0.938446045
+Copper,Silver,0.932841659
+Copper,Corn,0.925293922
+Tobramycin,Bicalutamide,0.902017474
+Tobramycin,Natamycin,0.897649705
+Tobramycin,Minocycline,0.893387616
+Tobramycin,Polymyxin B,0.890916348
+Tobramycin,Clarithromycin,0.887847066
+Colistin,Vancomycin,0.928623557
+Colistin,Amoxicillin,0.904120803
+Colistin,Cefazolin,0.904038668
+Colistin,Rifampin,0.898835242
+Colistin,Avibactam,0.897943258
+Rhodamine 6G,of an Iodine,0.864058495
+Rhodamine 6G,Prussian blue,0.858698249
+Rhodamine 6G,Methylene blue,0.857978344
+Rhodamine 6G,Uridine,0.855891228
+Rhodamine 6G,Eurotium amstelodami,0.855806649
+Furfural,Sulfadiazine,0.889203429
+Furfural,Fenchone,0.886562765
+Furfural,Linezolid,0.882213771
+Furfural,Thiamphenicol,0.882146895
+Furfural,Benzoic acid,0.879794419
+Sulfuric acid,Formic acid,0.964811444
+Sulfuric acid,Maleic acid,0.948428869
+Sulfuric acid,Peracetic acid,0.946069896
+Sulfuric acid,Acetic acid,0.934123397
+Sulfuric acid,Boric acid,0.928702712
+Maleic acid,Formic acid,0.966335356
+Maleic acid,Sulfuric acid,0.948428869
+Maleic acid,Boric acid,0.929877996
+Maleic acid,Benzoic acid,0.929459333
+Maleic acid,Peracetic acid,0.926984072
+N-Acetylglucosamine,Glucosamine,0.892314076
+N-Acetylglucosamine,2'-Fucosyllactose,0.890987277
+N-Acetylglucosamine,Acetylsalicylic acid,0.86949712
+N-Acetylglucosamine,4-Nitrocatechol,0.864232957
+N-Acetylglucosamine,Cysteamine or Lipoic acid,0.85680443
+Uridine,Uracil,0.909757793
+Uridine,Carnosine,0.887724102
+Uridine,Imidazole,0.883983314
+Uridine,Aniline,0.87948823
+Uridine,Taurine,0.879218936
+HEPE,Peanut,0.925308764
+HEPE,Antimony,0.916395426
+HEPE,Herring,0.912714064
+HEPE,Thiram,0.911131501
+HEPE,Serine,0.908400714
+Ciprofloxacin,Enrofloxacin,0.955920637
+Ciprofloxacin,Dicloxacillin,0.924075484
+Ciprofloxacin,Clarithromycin,0.902778268
+Ciprofloxacin,Cefazolin,0.879671574
+Ciprofloxacin,Vancomycin,0.876106143
+Pseudomonas aeruginosa,Fusarium graminearum,0.849442005
+Pseudomonas aeruginosa,Avibactam,0.844059527
+Pseudomonas aeruginosa,Bacillus subtilis,0.839017928
+Pseudomonas aeruginosa,Fusarium oxysporum,0.836398304
+Pseudomonas aeruginosa,Aspergillus oryzae,0.835862041
+Candida albicans,Aspergillus oryzae,0.875522435
+Candida albicans,Miconazole,0.855136991
+Candida albicans,Voriconazole,0.849060655
+Candida albicans,Vancomycin,0.845984101
+Candida albicans,Fluconazole,0.845553517
+Daidzin,Genipin,0.915643156
+Daidzin,B2) and Daidzin,0.907071233
+Daidzin,transformation of Daidzin,0.904312968
+Daidzin,dATP,0.902238846
+Daidzin,Naringin,0.901257575
+Isoflavone,components of Garlic,0.888284087
+Isoflavone,Quercetin,0.881130874
+Isoflavone,Gingerol,0.876084328
+Isoflavone,Ferulic acid,0.872459888
+Isoflavone,Pomegranate,0.870394886
+"flora, the Daidzin",B2) and Daidzin,0.887492061
+"flora, the Daidzin",transformation of Daidzin,0.880473733
+"flora, the Daidzin",Daidzin,0.876710892
+"flora, the Daidzin","step, the Terpineol",0.873939037
+"flora, the Daidzin",AIV in Poultry,0.869686246
+transformation of Daidzin,metabolites of Daidzin,0.91392833
+transformation of Daidzin,B2) and Daidzin,0.910365343
+transformation of Daidzin,Daidzin,0.904312968
+transformation of Daidzin,Esketamine,0.896199346
+transformation of Daidzin,Coumapho,0.891846061
+B2) and Daidzin,metabolites of Daidzin,0.915708601
+B2) and Daidzin,transformation of Daidzin,0.910365343
+B2) and Daidzin,Daidzin,0.907071233
+B2) and Daidzin,Pomotrelvir,0.893460751
+B2) and Daidzin,Zanubrutinib,0.889255643
+metabolites of Daidzin,B2) and Daidzin,0.915708601
+metabolites of Daidzin,transformation of Daidzin,0.91392833
+metabolites of Daidzin,to synthesize Terpineol,0.888186812
+metabolites of Daidzin,interaction between Florfenicol,0.887488842
+metabolites of Daidzin,in recognizing Florfenicol,0.883414626
+Chlortetracycline,Tetracycline,0.948477745
+Chlortetracycline,Thiamphenicol,0.905447423
+Chlortetracycline,Pomotrelvir,0.902250409
+Chlortetracycline,Triamcinolone,0.897779107
+Chlortetracycline,Remimazolam,0.887961328
+Eurotium amstelodami,Methoxsalen,0.888964534
+Eurotium amstelodami,of an Iodine,0.888277173
+Eurotium amstelodami,Coumapho,0.879969001
+Eurotium amstelodami,Topiroxostat,0.877744019
+Eurotium amstelodami,Perampanel,0.876447499
+Bacillus licheniformis,Bacillus subtilis,0.894662261
+Bacillus licheniformis,Bacillus cereus,0.882300496
+Bacillus licheniformis,Streptococcus salivarius,0.855980039
+Bacillus licheniformis,Botrytis cinerea,0.845137
+Bacillus licheniformis,Candida albicans,0.842688739
+Thiamine,difference in Thiamine,0.910201907
+Thiamine,Thiamphenicol,0.907306671
+Thiamine,Selenium,0.895918369
+Thiamine,Maleic acid,0.895656407
+Thiamine,Iodine,0.894904017
+difference in Thiamine,Thiamine,0.910201907
+difference in Thiamine,Cobalamin,0.888318896
+difference in Thiamine,at low Selenium,0.882665753
+difference in Thiamine,Cysteamine or Lipoic acid,0.882277071
+difference in Thiamine,Selenocysteine,0.879397035
+Meloxicam,Pomotrelvir,0.890010834
+Meloxicam,Diclofenac,0.888920665
+Meloxicam,Ranolazine,0.88734436
+Meloxicam,Cenobamate,0.886805296
+Meloxicam,Remimazolam,0.885949016
+Graphite,Titanium,0.887478352
+Graphite,Barium,0.879904389
+Graphite,Cobalt,0.879339218
+Graphite,Mescaline,0.878226995
+Graphite,Pectin,0.874286294
+Honey,Coconut,0.965487003
+Honey,Garlic,0.963649869
+Honey,Rice,0.958055973
+Honey,Apple,0.950002313
+Honey,Yeast,0.949007392
+Bacteroides thetaiotaomicron,Bacillus cereus,0.871270239
+Bacteroides thetaiotaomicron,Bacillus subtilis,0.862948
+Bacteroides thetaiotaomicron,Streptococcus salivarius,0.853555322
+Bacteroides thetaiotaomicron,Botrytis cinerea,0.846101403
+Bacteroides thetaiotaomicron,Fusarium oxysporum,0.843842566
+Streptococcus salivarius,Enterococcus faecium,0.893379152
+Streptococcus salivarius,Bacillus cereus,0.893327594
+Streptococcus salivarius,Bacillus subtilis,0.883391023
+Streptococcus salivarius,Escherichia coli,0.863932133
+Streptococcus salivarius,Avibactam,0.856598258
+Cesium,Barium,0.907096565
+Cesium,Chromium,0.906989038
+Cesium,Iodine,0.902094722
+Cesium,Cobalt,0.9008044
+Cesium,Selenium,0.899453044
+Bacillus cereus,Bacillus subtilis,0.942694068
+Bacillus cereus,Streptococcus salivarius,0.893327594
+Bacillus cereus,Bacillus licheniformis,0.882300496
+Bacillus cereus,Enterococcus faecium,0.880325556
+Bacillus cereus,Botrytis cinerea,0.876480222
+"analyses, the Silver",of various Oxygen,0.878081799
+"analyses, the Silver",with four Potassium,0.864947498
+"analyses, the Silver",of an Iodine,0.862018347
+"analyses, the Silver","step, the Terpineol",0.861905932
+"analyses, the Silver","Regarding interactions, Wheat",0.86165452
+approximately 35 Silver,million) for Ammonia,0.845533609
+approximately 35 Silver,Theanine,0.83686918
+approximately 35 Silver,in relative Water,0.835028708
+approximately 35 Silver,Hemin,0.834305167
+approximately 35 Silver,Silanol,0.831298888
+Serine,Proline,0.937539518
+Serine,Peanut,0.921833754
+Serine,Opium,0.919484496
+Serine,Antimony,0.919178843
+Serine,Urea,0.916902721
+Fibrin,in a Fibrin,0.935800135
+Fibrin,Thrombin,0.902133584
+Fibrin,Plasminogen,0.894033492
+Fibrin,chondrocytes in Fibrin,0.887077272
+Fibrin,Prothrombin,0.876222372
+Banana,Apple,0.973110914
+Banana,Rice,0.972428322
+Banana,Potato,0.971249461
+Banana,Bean,0.969464302
+Banana,Corn,0.96499598
+Fusarium oxysporum,Fusarium graminearum,0.922040403
+Fusarium oxysporum,Botrytis cinerea,0.912817359
+Fusarium oxysporum,Coumapho,0.886358082
+Fusarium oxysporum,in recognizing Florfenicol,0.875135422
+Fusarium oxysporum,AIV in Poultry,0.872823238
+Plasminogen,Thrombin,0.930407763
+Plasminogen,Prothrombin,0.921265006
+Plasminogen,Trypsin,0.902848303
+Plasminogen,Fibrin,0.894033492
+Plasminogen,Heparin,0.889903188
+Hypochlorous acid,Chloroform,0.894688368
+Hypochlorous acid,Peracetic acid,0.888068795
+Hypochlorous acid,Sulfuric acid,0.885673106
+Hypochlorous acid,Boric acid,0.884220243
+Hypochlorous acid,Dichlorvo,0.881654382
+Rose bengal,Berberine,0.882457495
+Rose bengal,Strawberry,0.876105964
+Rose bengal,Pomegranate,0.872082829
+Rose bengal,Ellagic acid,0.869204521
+Rose bengal,Parthenolide,0.86455667
+Cysteamine or Lipoic acid,based on Lipoic acid,0.913634539
+Cysteamine or Lipoic acid,Acetylsalicylic acid,0.893618822
+Cysteamine or Lipoic acid,Ferulic acid,0.893246114
+Cysteamine or Lipoic acid,Selenocysteine,0.891358852
+Cysteamine or Lipoic acid,Cysteine,0.887980223
+based on Lipoic acid,Cysteamine or Lipoic acid,0.913634539
+based on Lipoic acid,Ferulic acid,0.894177377
+based on Lipoic acid,Maleic acid,0.883193433
+based on Lipoic acid,Aminobenzoic acid,0.880429327
+based on Lipoic acid,Boric acid,0.879235268
+4-Nitrocatechol,4-hydroxybenzoic acid,0.926982462
+4-Nitrocatechol,Piperonyl butoxide,0.90635252
+4-Nitrocatechol,Aminobenzoic acid,0.898130119
+4-Nitrocatechol,"3-hydroxycarbofuran, deethyl Atrazine",0.896869063
+4-Nitrocatechol,4-Methylimidazole,0.890126765
+Enterococcus faecium,Streptococcus salivarius,0.893379152
+Enterococcus faecium,Escherichia coli,0.882112086
+Enterococcus faecium,Bacillus cereus,0.880325556
+Enterococcus faecium,Bacillus subtilis,0.871064186
+Enterococcus faecium,Vancomycin,0.851375282
+Vancomycin,Amoxicillin,0.931008518
+Vancomycin,Colistin,0.928623557
+Vancomycin,Clarithromycin,0.924883842
+Vancomycin,Natamycin,0.92381382
+Vancomycin,Rifampin,0.922462881
+Rhamnose,Berberine,0.912503064
+Rhamnose,Pomegranate,0.912278533
+Rhamnose,Gingerol,0.903599679
+Rhamnose,components of Garlic,0.897198558
+Rhamnose,common bread Wheat,0.890331745
+Oat,Oyster,0.947447002
+Oat,Almond,0.9335621
+Oat,Peanut,0.918839872
+Oat,Strawberry,0.918588698
+Oat,Whey,0.916011095
+Millet seed,Barley,0.913442552
+Millet seed,Peach,0.904946506
+Millet seed,Strawberry,0.900019646
+Millet seed,Beet,0.894150257
+Millet seed,Ginger,0.892172575
+h of Water,million) for Ammonia,0.877669811
+h of Water,the lake Water,0.877534091
+h of Water,1% and Water,0.875208139
+h of Water,in relative Water,0.862905324
+h of Water,to final Ethanol,0.859032154
+1% and Water,Sodium Acetate,0.882393956
+1% and Water,Chloroform,0.878506184
+1% and Water,h of Water,0.875208139
+1% and Water,in relative Water,0.873886228
+1% and Water,than low-mineral Water,0.863455474
+Gelatin,Pectin,0.910344243
+Gelatin,Heparin,0.883466721
+Gelatin,Sodium Acetate,0.882799387
+Gelatin,Xylazine,0.881575406
+Gelatin,in a Fibrin,0.881318927
+Sulfamethoxazole,Thiamphenicol,0.879404187
+Sulfamethoxazole,Amoxicillin,0.876104772
+Sulfamethoxazole,Cefazolin,0.874070764
+Sulfamethoxazole,Remimazolam,0.871298194
+Sulfamethoxazole,Carbazole,0.869421244
+formulated for Ethanol,additions to Honey,0.896206617
+formulated for Ethanol,Peanut,0.893968463
+formulated for Ethanol,Esketamine,0.889529705
+formulated for Ethanol,Whey,0.888400912
+formulated for Ethanol,Perampanel,0.883071303
+to final Ethanol,in relative Water,0.883943439
+to final Ethanol,Ammonia,0.871518016
+to final Ethanol,Sorbitol,0.870236874
+to final Ethanol,Acetate,0.869952261
+to final Ethanol,sensitivity for Ammonia,0.866455555
+composition of Egg,characteristics of Egg,0.9502756
+composition of Egg,additions to Honey,0.899321675
+composition of Egg,Whey,0.895963311
+composition of Egg,Oat,0.8921206
+composition of Egg,Strawberry,0.884726644
+characteristics of Egg,composition of Egg,0.9502756
+characteristics of Egg,Oyster,0.889854014
+characteristics of Egg,Strawberry,0.888111353
+characteristics of Egg,Poultry,0.886308968
+characteristics of Egg,Peanut,0.885917425
+Silver,Zinc,0.948007464
+Silver,Copper,0.932841659
+Silver,Iron,0.916131854
+Silver,Platinum,0.914052129
+Silver,Silicon,0.91321981
+Oyster,Oat,0.947447002
+Oyster,Herring,0.935149074
+Oyster,Peanut,0.93331784
+Oyster,Clove,0.92921567
+Oyster,Almond,0.92176652
+Barium,Opium,0.931267321
+Barium,Antimony,0.926652849
+Barium,Betaine,0.913496792
+Barium,Cobalt,0.911260605
+Barium,Almond,0.907889187
+additions to Honey,composition of Egg,0.899321675
+additions to Honey,Oat,0.898656607
+additions to Honey,formulated for Ethanol,0.896206617
+additions to Honey,Esketamine,0.883389473
+additions to Honey,Strawberry,0.882471323
+Piperonyl butoxide,Methoxsalen,0.915063918
+Piperonyl butoxide,Thiamphenicol,0.913703918
+Piperonyl butoxide,Benzoic acid,0.908568859
+Piperonyl butoxide,4-Nitrocatechol,0.90635252
+Piperonyl butoxide,Aminobenzoic acid,0.905206323
+Coumapho,Lapachone,0.903553843
+Coumapho,Thiram,0.900369883
+Coumapho,Sakuranetin,0.90033859
+Coumapho,Xylazine,0.900237739
+Coumapho,Thiamphenicol,0.898646533
+Urea,Ammonia,0.940173626
+Urea,Serine,0.916902721
+Urea,Acetate,0.910504758
+Urea,Nitrate,0.907351077
+Urea,Hemin,0.907254279
+Chlorine,Dichlorvo,0.917311668
+Chlorine,Iodine,0.916340709
+Chlorine,Perchlorate,0.908735991
+Chlorine,Cadmium,0.896869659
+Chlorine,Sulfuric acid,0.895325005
+Tetramethylammonium,Benzalkonium,0.884742916
+Tetramethylammonium,Isopropyl alcohol,0.881205082
+Tetramethylammonium,4-Methylimidazole,0.875204563
+Tetramethylammonium,Maleic acid,0.861340463
+Tetramethylammonium,Piperonyl butoxide,0.857466817
+Clopidogrel,Rivaroxaban,0.877625346
+Clopidogrel,Amiodarone,0.866344213
+Clopidogrel,Niraparib,0.861231625
+Clopidogrel,Dapagliflozin,0.852261603
+Clopidogrel,Nifedipine,0.851731479
+Silanol,Maleic acid,0.919065177
+Silanol,Boric acid,0.907401085
+Silanol,Theanine,0.904416859
+Silanol,Aniline,0.90439719
+Silanol,Benzoic acid,0.901917875
+Dichlorvo,Chlorine,0.917311668
+Dichlorvo,Methoxsalen,0.902703047
+Dichlorvo,Cadmium,0.890734732
+Dichlorvo,Boric acid,0.886134982
+Dichlorvo,Bisphenol A,0.885818422
+Carbendazim,Carbazole,0.931920767
+Carbendazim,Benzimidazole,0.918819904
+Carbendazim,Imidazole,0.917027116
+Carbendazim,Remimazolam,0.908927381
+Carbendazim,Sulfadiazine,0.897052944
+"including acetochlor, Atrazine","3-hydroxycarbofuran, deethyl Atrazine",0.892938614
+"including acetochlor, Atrazine",arsenic + Chromium,0.864445746
+"including acetochlor, Atrazine",Chlortetracycline,0.861437321
+"including acetochlor, Atrazine",in recognizing Florfenicol,0.85704869
+"including acetochlor, Atrazine",Hypochlorous acid,0.856058776
+"3-hydroxycarbofuran, deethyl Atrazine",4-hydroxybenzoic acid,0.939515829
+"3-hydroxycarbofuran, deethyl Atrazine",5-Hydroxymethylfurfural,0.931796372
+"3-hydroxycarbofuran, deethyl Atrazine",4-Nitrocatechol,0.896869063
+"3-hydroxycarbofuran, deethyl Atrazine",4-Methylimidazole,0.8945328
+"3-hydroxycarbofuran, deethyl Atrazine","including acetochlor, Atrazine",0.892938614
+Choline,Thiamine,0.884187639
+Choline,Caffeine,0.883597732
+Choline,Chlorine,0.882637203
+Choline,Iodine,0.881787002
+Choline,Fenchone,0.881533742
+Sakuranetin,Mangostin,0.900346577
+Sakuranetin,Coumapho,0.90033859
+Sakuranetin,Naringin,0.899643421
+Sakuranetin,Genipin,0.896499574
+Sakuranetin,Astaxanthin,0.891810536
+Menaquinone,Coenzyme A,0.809555292
+Menaquinone,Isoflavone,0.796037257
+Menaquinone,Sulfuric acid,0.795099974
+Menaquinone,Ascorbic acid,0.794766903
+Menaquinone,Formic acid,0.793184638
+Broccoli,Strawberry,0.905596375
+Broccoli,Carob,0.89711982
+Broccoli,Barley,0.893996954
+Broccoli,Berberine,0.892517567
+Broccoli,common bread Wheat,0.890147507
+Pomegranate,Rhamnose,0.912278533
+Pomegranate,Gingerol,0.907320082
+Pomegranate,Genipin,0.905839086
+Pomegranate,Berberine,0.904885054
+Pomegranate,components of Garlic,0.892074049
+Ellagic acid,Bempedoic acid,0.902803659
+Ellagic acid,Ferulic acid,0.901431203
+Ellagic acid,Gibberellic acid,0.901087105
+Ellagic acid,Pectin,0.896461248
+Ellagic acid,Gingerol,0.891394734
+Tocopherol,Deoxycholic acid,0.871230841
+Tocopherol,Isoflavone,0.868650436
+Tocopherol,Ferulic acid,0.86468792
+Tocopherol,Caffeine,0.863473892
+Tocopherol,Curcumin,0.862716079
+Whey,Almond,0.923630297
+Whey,Strawberry,0.918627024
+Whey,Peanut,0.918074071
+Whey,Oat,0.916011095
+Whey,Water,0.90847683
+Benzoic acid,Aminobenzoic acid,0.973607659
+Benzoic acid,Maleic acid,0.929459333
+Benzoic acid,Formic acid,0.923208356
+Benzoic acid,Boric acid,0.922127843
+Benzoic acid,Acetic acid,0.917686701
+Aminobenzoic acid,Benzoic acid,0.973607659
+Aminobenzoic acid,Boric acid,0.916154981
+Aminobenzoic acid,4-hydroxybenzoic acid,0.915505886
+Aminobenzoic acid,Maleic acid,0.914228618
+Aminobenzoic acid,Thiamphenicol,0.912123322
+of various Oxygen,that are Iron,0.889577568
+of various Oxygen,with four Potassium,0.885296702
+of various Oxygen,of an Iodine,0.882400453
+of various Oxygen,effects of Iron,0.88139689
+of various Oxygen,characteristics of Egg,0.881313205
+for the Oxygen,million) for Ammonia,0.897630155
+for the Oxygen,driven by Iron,0.895644665
+for the Oxygen,of the Iron,0.892032385
+for the Oxygen,Hemin,0.890923142
+for the Oxygen,to access Iron,0.886940956
+M-Cresol,P-Cresol,0.980091512
+M-Cresol,Phenol,0.893476963
+M-Cresol,Piperonyl butoxide,0.883510232
+M-Cresol,Isopropyl alcohol,0.879906654
+M-Cresol,Methoxsalen,0.873064518
+Phosphoru,Bisphenol A,0.870615304
+Phosphoru,Eurotium amstelodami,0.870558321
+Phosphoru,Coumapho,0.870282531
+Phosphoru,immobilized with Etorphine,0.859130561
+Phosphoru,of an Iodine,0.857752323
+ATP,Pea,0.92599988
+ATP,Peanut,0.921108842
+ATP,dATP,0.909726262
+ATP,Carob,0.906123996
+ATP,MCC,0.902753294
+Ergosterol,Gingerol,0.900545239
+Ergosterol,Parthenolide,0.894056678
+Ergosterol,Bempedoic acid,0.892481387
+Ergosterol,Quercetin,0.89191556
+Ergosterol,Ellagic acid,0.890449286
+Perchlorate,Chlorine,0.908735991
+Perchlorate,Maleic acid,0.900734186
+Perchlorate,Boric acid,0.898995459
+Perchlorate,Sulfuric acid,0.893219769
+Perchlorate,Formic acid,0.890298128
+Carbon dioxide,Methane,0.922486901
+Carbon dioxide,Ammonia,0.907358527
+Carbon dioxide,Acetate,0.904591203
+Carbon dioxide,Sulfuric acid,0.892853141
+Carbon dioxide,Ozone,0.891602397
+Glucose oxidase,Coenzyme A,0.874443293
+Glucose oxidase,Cytochrome C,0.846860468
+Glucose oxidase,reduction than Glucagon,0.836771369
+Glucose oxidase,Ascorbic acid,0.831980944
+Glucose oxidase,Glutathione,0.828540206
+Chloramphenicol,Vancomycin,0.867779493
+Chloramphenicol,Amoxicillin,0.86571455
+Chloramphenicol,Chlorhexidine,0.864692748
+Chloramphenicol,Clarithromycin,0.861630321
+Chloramphenicol,Erythromycin,0.859328151
+Thiamphenicol,in recognizing Florfenicol,0.915832222
+Thiamphenicol,Piperonyl butoxide,0.913703918
+Thiamphenicol,Methoxsalen,0.913493574
+Thiamphenicol,Aminobenzoic acid,0.912123322
+Thiamphenicol,Perampanel,0.911131859
+in recognizing Florfenicol,interaction between Florfenicol,0.962290764
+in recognizing Florfenicol,Thiamphenicol,0.915832222
+in recognizing Florfenicol,Cenobamate,0.896973252
+in recognizing Florfenicol,Pomotrelvir,0.89696914
+in recognizing Florfenicol,5-Hydroxymethylfurfural,0.89605999
+interaction between Florfenicol,in recognizing Florfenicol,0.962290764
+interaction between Florfenicol,Thiamphenicol,0.900717556
+interaction between Florfenicol,5-Hydroxymethylfurfural,0.893675447
+interaction between Florfenicol,Pomotrelvir,0.891979575
+interaction between Florfenicol,metabolites of Daidzin,0.887488842
+Sodium Acetate,Acetic acid,0.932347715
+Sodium Acetate,Acetate,0.924481153
+Sodium Acetate,Maleic acid,0.917110801
+Sodium Acetate,Formic acid,0.916353822
+Sodium Acetate,Peracetic acid,0.91336894
+in vitro Calcium,broth or Wheat,0.865916193
+in vitro Calcium,based on Lipoic acid,0.853545725
+in vitro Calcium,in recognizing Florfenicol,0.839870214
+in vitro Calcium,in the Yeast,0.838235021
+in vitro Calcium,Benzoic acid,0.835231662
+had comparable Calcium,characteristics of Egg,0.88064158
+had comparable Calcium,formulated for Ethanol,0.877227545
+had comparable Calcium,Dapsone,0.872575104
+had comparable Calcium,Opium,0.872093558
+had comparable Calcium,composition of Egg,0.870168865
+Nifedipine,Pilocarpine,0.894809008
+Nifedipine,Dapagliflozin,0.885726392
+Nifedipine,Carbamazepine,0.885052383
+Nifedipine,Carvedilol,0.882832587
+Nifedipine,Ondansetron,0.882634401
+Fluoxetine,Paroxetine,0.964450777
+Fluoxetine,Clozapine,0.889393628
+Fluoxetine,Olanzapine,0.881372511
+Fluoxetine,Levetiracetam,0.867086351
+Fluoxetine,Carbamazepine,0.862652957
+Carbamazepine,Remimazolam,0.904384077
+Carbamazepine,Carbazole,0.893467784
+Carbamazepine,Pilocarpine,0.887802184
+Carbamazepine,Nifedipine,0.885052383
+Carbamazepine,Carbendazim,0.878848433
+Acetylcholine,Norepinephrine,0.880871415
+Acetylcholine,Dopamine,0.866037428
+Acetylcholine,Serotonin,0.862975955
+Acetylcholine,of the Dopamine,0.851503909
+Acetylcholine,Tetrodotoxin,0.850477338
+Betaine,Opium,0.927366197
+Betaine,Codeine,0.927174211
+Betaine,Antimony,0.92476505
+Betaine,Almond,0.918903708
+Betaine,Serine,0.915858567
+driven by Iron,to access Iron,0.925224066
+driven by Iron,Hemin,0.899526536
+driven by Iron,for the Oxygen,0.895644665
+driven by Iron,that are Iron,0.887646198
+driven by Iron,of the Iron,0.88741374
+bilirubin and Iron,Homocysteine,0.903485417
+bilirubin and Iron,Uric acid,0.890655518
+bilirubin and Iron,Cobalamin,0.870349467
+bilirubin and Iron,Thyroglobulin,0.869569957
+bilirubin and Iron,Cysteamine or Lipoic acid,0.859273434
+Lysine,Leucine,0.957102776
+Lysine,Cysteine,0.926570415
+Lysine,Glycine,0.92421484
+Lysine,Tyrosine,0.922142863
+Lysine,Valine,0.920120776
+Peanut,Pea,0.962100744
+Peanut,Clove,0.941906512
+Peanut,Peach,0.941408515
+Peanut,Antimony,0.935352504
+Peanut,Rice,0.935278058
+Cholesterol,Homocysteine,0.886541069
+Cholesterol,bilirubin and Iron,0.847078085
+Cholesterol,Creatinine,0.846922159
+Cholesterol,Leptin,0.837017059
+Cholesterol,Uric acid,0.831239939
+Nintedanib,Nilotinib,0.920715332
+Nintedanib,Crizotinib,0.911041915
+Nintedanib,Axitinib,0.910106063
+Nintedanib,Niraparib,0.907054782
+Nintedanib,Rogaratinib,0.906983733
+Tocilizumab,Vedolizumab,0.968676567
+Tocilizumab,Eculizumab,0.965111315
+Tocilizumab,Pembrolizumab,0.956763446
+Tocilizumab,Bevacizumab,0.945536375
+Tocilizumab,Ravulizumab,0.943553686
+Imatinib,Nilotinib,0.925197363
+Imatinib,Crizotinib,0.920372009
+Imatinib,Axitinib,0.908906698
+Imatinib,Ibrutinib,0.907301188
+Imatinib,Nintedanib,0.906072199
+Nilotinib,Crizotinib,0.937859058
+Nilotinib,Axitinib,0.930289149
+Nilotinib,Imatinib,0.925197363
+Nilotinib,Nintedanib,0.920715332
+Nilotinib,Rogaratinib,0.916565299
+Docetaxel,Doxorubicin,0.912772298
+Docetaxel,Irinotecan,0.901899278
+Docetaxel,Lobaplatin,0.890695691
+Docetaxel,Paclitaxel,0.880236387
+Docetaxel,Daunorubicin,0.876757145
+Fluorouracil,Doxorubicin,0.896134853
+Fluorouracil,Irinotecan,0.892695248
+Fluorouracil,Daunorubicin,0.889620066
+Fluorouracil,Carboplatin,0.88469249
+Fluorouracil,Voriconazole,0.870287001
+Linezolid,Ranolazine,0.917006254
+Linezolid,Remimazolam,0.915732861
+Linezolid,Carbazole,0.911734462
+Linezolid,Minocycline,0.908490002
+Linezolid,Miconazole,0.904738188
+Crizotinib,Rogaratinib,0.941414773
+Crizotinib,Nilotinib,0.937859058
+Crizotinib,Axitinib,0.936078906
+Crizotinib,Ibrutinib,0.927959085
+Crizotinib,Imatinib,0.920372009
+Platinum,Copper,0.949097872
+Platinum,Rice,0.930549026
+Platinum,Bean,0.929452062
+Platinum,Zinc,0.928731441
+Platinum,Potato,0.927303076
+Buprenorphine,Morphine,0.899685621
+Buprenorphine,before epidural Morphine,0.89042604
+Buprenorphine,of epidural Morphine,0.886382103
+Buprenorphine,effects of Etorphine,0.880892336
+Buprenorphine,Remifentanil,0.86804682
+Aspartic acid,Asparagine,0.949484766
+Aspartic acid,Valine,0.922503173
+Aspartic acid,Alanine,0.920068383
+Aspartic acid,Glutamic acid,0.914365351
+Aspartic acid,Cysteine,0.903817236
+Omega-3 fatty acids,Isoflavone,0.837345719
+Omega-3 fatty acids,Cysteamine or Lipoic acid,0.829891384
+Omega-3 fatty acids,Tocopherol,0.824216008
+Omega-3 fatty acids,based on Lipoic acid,0.817175508
+Omega-3 fatty acids,Ferulic acid,0.814706445
+Psilocybin,Mangostin,0.908679605
+Psilocybin,Genipin,0.898102999
+Psilocybin,Coumapho,0.891683757
+Psilocybin,Sakuranetin,0.888914704
+Psilocybin,Lapachone,0.884467244
+Indium,Cobalt,0.941300333
+Indium,Antimony,0.906831384
+Indium,Barium,0.905816436
+Indium,Zinc,0.894091845
+Indium,Silver,0.893730521
+Levetiracetam,Sertraline,0.884414434
+Levetiracetam,Ondansetron,0.881453753
+Levetiracetam,Brivaracetam,0.878185034
+Levetiracetam,Carbamazepine,0.874771953
+Levetiracetam,Ropinirole,0.873407185
+Homocysteine,bilirubin and Iron,0.903485417
+Homocysteine,Cysteine,0.888275266
+Homocysteine,Cholesterol,0.886541069
+Homocysteine,Methionine,0.876065373
+Homocysteine,Selenocysteine,0.875560343
+Repotrectinib,Rogaratinib,0.921989918
+Repotrectinib,Ibrutinib,0.919248581
+Repotrectinib,Crizotinib,0.908012629
+Repotrectinib,for the Tucatinib,0.900762677
+Repotrectinib,Ribociclib,0.89954567
+Creatine,Urea,0.899053693
+Creatine,Citric acid,0.892971635
+Creatine,Uric acid,0.884901822
+Creatine,Choline,0.875497639
+Creatine,Cysteine,0.869971097
+Glyphosate,Coumapho,0.878410578
+Glyphosate,Xylazine,0.873731017
+Glyphosate,Thiamphenicol,0.873319447
+Glyphosate,Pomotrelvir,0.870585084
+Glyphosate,Gibberellic acid,0.869942248
+Nitroglycerin,4-Nitrocatechol,0.869692326
+Nitroglycerin,Piperonyl butoxide,0.859494269
+Nitroglycerin,reduction than Glucagon,0.855568469
+Nitroglycerin,Nifedipine,0.854668915
+Nitroglycerin,Aminobenzoic acid,0.851869345
+Hyaluronidase,chondrocytes in Fibrin,0.864662886
+Hyaluronidase,Gelatin,0.848600447
+Hyaluronidase,Methylcellulose,0.844649136
+Hyaluronidase,Trypsin,0.832234919
+Hyaluronidase,Alkaline Phosphatase,0.828053951
+Methoxsalen,Piperonyl butoxide,0.915063918
+Methoxsalen,Thiamphenicol,0.913493574
+Methoxsalen,Fenchone,0.908018649
+Methoxsalen,Dichlorvo,0.902703047
+Methoxsalen,Esketamine,0.90235281
+Quinoline,Imidazole,0.905408204
+Quinoline,Pyrrolidine,0.884639025
+Quinoline,4-Methylimidazole,0.878406167
+Quinoline,Indole,0.877772868
+Quinoline,Benzimidazole,0.868982792
+Glycyrrhiza glabra,Gibberellic acid,0.888133407
+Glycyrrhiza glabra,Bempedoic acid,0.876102626
+Glycyrrhiza glabra,Ginsenoside Rg1,0.87195164
+Glycyrrhiza glabra,Pomegranate,0.861176252
+Glycyrrhiza glabra,Zanubrutinib,0.860150814
+Malonaldehyde,Formaldehyde,0.895500898
+Malonaldehyde,Salicylic acid,0.855111241
+Malonaldehyde,Formic acid,0.845444143
+Malonaldehyde,Aminosalicylic acid,0.844338596
+Malonaldehyde,Deoxycholic acid,0.84051311
+Acetic acid,Peracetic acid,0.945947528
+Acetic acid,Acetate,0.939893425
+Acetic acid,Formic acid,0.939860344
+Acetic acid,Sulfuric acid,0.934123397
+Acetic acid,Sodium Acetate,0.932347715
+Dapagliflozin,Ivacaftor,0.915483952
+Dapagliflozin,Dabigatran,0.91278398
+Dapagliflozin,Saxagliptin,0.91200608
+Dapagliflozin,Eltrombopag,0.908989191
+Dapagliflozin,Rivaroxaban,0.903151393
+Vasopressin,Norepinephrine,0.864526927
+Vasopressin,find elevated Norepinephrine,0.850965261
+Vasopressin,catabolism of Norepinephrine,0.844002068
+Vasopressin,Angiotensin II,0.843191981
+Vasopressin,Aldosterone,0.83575356
+Fenchone,Esketamine,0.915553331
+Fenchone,Pomotrelvir,0.908091247
+Fenchone,Methoxsalen,0.908018649
+Fenchone,Tezacaftor,0.903398693
+Fenchone,Ranolazine,0.899271727
+Miconazole,Fluconazole,0.985283732
+Miconazole,Voriconazole,0.970865846
+Miconazole,Itraconazole,0.938438177
+Miconazole,Metronidazole,0.934343636
+Miconazole,Linezolid,0.904738188
+Bevacizumab,Tocilizumab,0.945536375
+Bevacizumab,Sacituzumab govitecan,0.936833143
+Bevacizumab,Vedolizumab,0.935117424
+Bevacizumab,Eculizumab,0.933999658
+Bevacizumab,Ravulizumab,0.930493474
+Olaparib,Niraparib,0.939963937
+Olaparib,Crizotinib,0.918749034
+Olaparib,Axitinib,0.917339861
+Olaparib,Nilotinib,0.914134383
+Olaparib,Nintedanib,0.906071663
+Niraparib,Olaparib,0.939963937
+Niraparib,Nilotinib,0.909643769
+Niraparib,Nintedanib,0.907054782
+Niraparib,Dabigatran,0.905523419
+Niraparib,Crizotinib,0.904764652
+Axitinib,Delgocitinib,0.947828114
+Axitinib,Ibrutinib,0.943439424
+Axitinib,Ivarmacitinib,0.940505624
+Axitinib,Crizotinib,0.936078906
+Axitinib,Rogaratinib,0.935054898
+Carboplatin,Cisplatin,0.963084102
+Carboplatin,Lobaplatin,0.950638056
+Carboplatin,prevention of Cisplatin,0.94552362
+Carboplatin,of developing Cisplatin,0.934277713
+Carboplatin,Irinotecan,0.918690443
+Proline,Serine,0.937539518
+Proline,Amino acids,0.925333798
+Proline,Glycine,0.914045155
+Proline,Lysine,0.907343328
+Proline,Alanine,0.905816376
+Galactose,Glucosamine,0.91172564
+Galactose,Fructose,0.896849036
+Galactose,2'-Fucosyllactose,0.881461024
+Galactose,Amylose,0.86892724
+Galactose,Sucrose,0.861381531
+Watercres,Strawberry,0.882062018
+Watercres,Herring,0.877714515
+Watercres,Pineapple,0.871981204
+Watercres,Poultry,0.868690014
+Watercres,mortality when Pea,0.864076614
+Pea,Peanut,0.962100744
+Pea,Peach,0.958399177
+Pea,ATP,0.92599988
+Pea,Herring,0.92528677
+Pea,Barley,0.924556911
+Garlic,Coconut,0.974187136
+Garlic,Rice,0.966077566
+Garlic,Honey,0.963649869
+Garlic,Bean,0.961384296
+Garlic,Apple,0.950821817
+to synthesize Terpineol,"step, the Terpineol",0.891177654
+to synthesize Terpineol,metabolites of Daidzin,0.888186812
+to synthesize Terpineol,transformation of Daidzin,0.886437535
+to synthesize Terpineol,Spironolactone,0.877538323
+to synthesize Terpineol,based on Lipoic acid,0.874281526
+"step, the Terpineol",to synthesize Terpineol,0.891177654
+"step, the Terpineol",transformation of Daidzin,0.888350964
+"step, the Terpineol",Coumapho,0.880366862
+"step, the Terpineol","However, increasing Mannose",0.878959596
+"step, the Terpineol",in defining Heparin,0.878278613
+Hemin,Iron,0.926758349
+Hemin,Ammonia,0.923261523
+Hemin,Antimony,0.910155952
+Hemin,Betaine,0.909742653
+Hemin,Serine,0.908474326
+Tyrosine,Lysine,0.922142863
+Tyrosine,Cysteine,0.905460596
+Tyrosine,Leucine,0.900738597
+Tyrosine,Methionine,0.881219983
+Tyrosine,Alanine,0.88099885
+Benzalkonium,Benzoic acid,0.906173825
+Benzalkonium,Aniline,0.893700719
+Benzalkonium,Aminobenzoic acid,0.888696432
+Benzalkonium,Silanol,0.888225198
+Benzalkonium,Methoxsalen,0.885305822
+Methadone,Amiodarone,0.885472417
+Methadone,Ranitidine,0.876276255
+Methadone,Azaperone,0.874398589
+Methadone,Clozapine,0.868697047
+Methadone,Ranolazine,0.865956545
+Creatinine,Uric acid,0.848161221
+Creatinine,Cholesterol,0.846922159
+Creatinine,Creatine,0.845773697
+Creatinine,Homocysteine,0.838544965
+Creatinine,bilirubin and Iron,0.837167382
+along with Chromium,arsenic + Chromium,0.932896137
+along with Chromium,Chromium,0.923291802
+along with Chromium,Chlorine,0.874414206
+along with Chromium,Cadmium,0.872017682
+along with Chromium,of an Iodine,0.871074677
+arsenic + Chromium,along with Chromium,0.932896137
+arsenic + Chromium,Chromium,0.899925768
+arsenic + Chromium,Cadmium,0.877409041
+arsenic + Chromium,of an Iodine,0.874627829
+arsenic + Chromium,Boric acid,0.872800469
+Vitamin E,Antimony,0.874899685
+Vitamin E,Betaine,0.873800159
+Vitamin E,Oat,0.870612562
+Vitamin E,Caffeine,0.869886518
+Vitamin E,Whey,0.865923345
+Sevoflurane,Desflurane,0.970389724
+Sevoflurane,Remifentanil,0.890370429
+Sevoflurane,Propofol,0.882625163
+Sevoflurane,Fentanyl,0.869766235
+Sevoflurane,Lidocaine,0.850734949
+Testosterone,Histamine,0.879135251
+Testosterone,Codeine,0.875393867
+Testosterone,effects of Iron,0.871859193
+Testosterone,Insulin human,0.87063092
+Testosterone,Opium,0.867562413
+Fructose,weeks and Fructose,0.941722155
+Fructose,Galactose,0.896849036
+Fructose,Glucosamine,0.888114512
+Fructose,2'-Fucosyllactose,0.86945349
+Fructose,Sucrose,0.868855655
+Ponatinib,for the Tucatinib,0.937593758
+Ponatinib,Axitinib,0.934901237
+Ponatinib,ratio of Tucatinib,0.924477339
+Ponatinib,Rogaratinib,0.924058437
+Ponatinib,Ibrutinib,0.920889318
+Ritonavir,Ribavirin,0.902567506
+Ritonavir,Ponatinib,0.887292862
+Ritonavir,Amiodarone,0.882869363
+Ritonavir,Sofosbuvir,0.882669926
+Ritonavir,Povidone,0.879471123
+Tacrolimu,Bicalutamide,0.902685225
+Tacrolimu,Levocarnitine,0.898509026
+Tacrolimu,for the Tucatinib,0.897515655
+Tacrolimu,Thiamphenicol,0.8952443
+Tacrolimu,Cenobamate,0.89410162
+prevention of Cisplatin,of developing Cisplatin,0.969513535
+prevention of Cisplatin,Cisplatin,0.962019205
+prevention of Cisplatin,Carboplatin,0.94552362
+prevention of Cisplatin,Lobaplatin,0.93367362
+prevention of Cisplatin,highlight the Paclitaxel,0.907004952
+of developing Cisplatin,prevention of Cisplatin,0.969513535
+of developing Cisplatin,Cisplatin,0.959552884
+of developing Cisplatin,Lobaplatin,0.942067385
+of developing Cisplatin,Carboplatin,0.934277713
+of developing Cisplatin,highlight the Paclitaxel,0.914700627
+Naringin,Genipin,0.913373947
+Naringin,Fisetin,0.908835948
+Naringin,Daidzin,0.901257575
+Naringin,Sakuranetin,0.899643421
+Naringin,Gingerol,0.899141908
+Fisetin,Naringin,0.908835948
+Fisetin,Berberine,0.900231481
+Fisetin,Gingerol,0.894106328
+Fisetin,Zanubrutinib,0.893983066
+Fisetin,Parthenolide,0.88680011
+Ferulic acid,Citric acid,0.907117009
+Ferulic acid,Ellagic acid,0.901431203
+Ferulic acid,based on Lipoic acid,0.894177377
+Ferulic acid,Cysteamine or Lipoic acid,0.893246114
+Ferulic acid,Curcumin,0.892525375
+Estradiol,Testosterone,0.865463257
+Estradiol,Leptin,0.838250697
+Estradiol,Mometasone,0.830915153
+Estradiol,Goserelin,0.827727914
+Estradiol,effects of Iron,0.826421559
+Nitric Oxide,Nitrite,0.870187819
+Nitric Oxide,Nitroglycerin,0.847935021
+Nitric Oxide,Ascorbic acid,0.84753859
+Nitric Oxide,Glutathione,0.845822632
+Nitric Oxide,Choline,0.834394753
+sources of Iodine,of urinary Iodine,0.924785912
+sources of Iodine,sources including Iron,0.899692476
+sources of Iodine,assess population Iodine,0.898825109
+sources of Iodine,of an Iodine,0.896576881
+sources of Iodine,Iodine,0.892641723
+of an Iodine,Iodine,0.943938196
+of an Iodine,Boric acid,0.900514722
+of an Iodine,sources of Iodine,0.896576881
+of an Iodine,Thiamine,0.893728733
+of an Iodine,Piperonyl butoxide,0.889251173
+Iodine,of an Iodine,0.943938196
+Iodine,Chlorine,0.916340709
+Iodine,Chromium,0.906167388
+Iodine,Cesium,0.902094722
+Iodine,Selenium,0.898392797
+Amiodarone,Azaperone,0.900391817
+Amiodarone,Ranitidine,0.894687951
+Amiodarone,Perampanel,0.888971686
+Amiodarone,Heparin,0.887182713
+Amiodarone,Methadone,0.885472417
+assess population Iodine,of urinary Iodine,0.915272176
+assess population Iodine,sources of Iodine,0.898825109
+assess population Iodine,difference in Thiamine,0.850556493
+assess population Iodine,of an Iodine,0.848325133
+assess population Iodine,"adjusted regression, Selenium",0.847550869
+of urinary Iodine,sources of Iodine,0.924785912
+of urinary Iodine,assess population Iodine,0.915272176
+of urinary Iodine,of an Iodine,0.875074506
+of urinary Iodine,inhalation of Cadmium,0.872698843
+of urinary Iodine,Iodine,0.856515467
+Thyroglobulin,bilirubin and Iron,0.869569957
+Thyroglobulin,antibodies of Thrombopoietin,0.84661895
+Thyroglobulin,Thymol,0.84547931
+Thyroglobulin,Trypsin,0.843801439
+Thyroglobulin,Gibberellic acid,0.8422122
+Omeprazole,Metronidazole,0.920779526
+Omeprazole,Remimazolam,0.914311588
+Omeprazole,and the Nirmatrelvir,0.894845128
+Omeprazole,Miconazole,0.890495062
+Omeprazole,Pomotrelvir,0.884071887
+Amoxicillin,Vancomycin,0.931008518
+Amoxicillin,Rifampin,0.918929458
+Amoxicillin,Cefazolin,0.912781835
+Amoxicillin,Colistin,0.904120803
+Amoxicillin,Clarithromycin,0.902407646
+Topiroxostat,Ponatinib,0.912405074
+Topiroxostat,Pomotrelvir,0.911271811
+Topiroxostat,Perampanel,0.907914639
+Topiroxostat,Zanubrutinib,0.904119253
+Topiroxostat,Tezacaftor,0.903568208
+Uric acid,Citric acid,0.919131875
+Uric acid,Urea,0.901630878
+Uric acid,bilirubin and Iron,0.890655518
+Uric acid,Creatine,0.884901822
+Uric acid,Lactic acid,0.879405558
+Latanoprost,which PF Latanoprost,0.935507417
+Latanoprost,Albuterol,0.857048452
+Latanoprost,Ondansetron,0.85338521
+Latanoprost,Sildenafil,0.845700026
+Latanoprost,Niraparib,0.839692712
+which PF Latanoprost,Latanoprost,0.935507417
+which PF Latanoprost,and the Nirmatrelvir,0.867533922
+which PF Latanoprost,Dapagliflozin,0.867029965
+which PF Latanoprost,Andexanet alfa,0.864166141
+which PF Latanoprost,Ondansetron,0.851763844
+Formaldehyde,Malonaldehyde,0.895500898
+Formaldehyde,Formic acid,0.873360753
+Formaldehyde,Phenol,0.871583462
+Formaldehyde,Benzalkonium,0.868276119
+Formaldehyde,Bisphenol A,0.860619843
+Aniline,Maleic acid,0.910313487
+Aniline,Silanol,0.90439719
+Aniline,Benzoic acid,0.901229143
+Aniline,Theanine,0.898374081
+Aniline,Benzalkonium,0.893700719
+Prussian blue,Methylene blue,0.90363431
+Prussian blue,Pomotrelvir,0.895445764
+Prussian blue,Aminobenzoic acid,0.891081989
+Prussian blue,Piperonyl butoxide,0.888980567
+Prussian blue,Benzoic acid,0.888726473
+Orange,Banana,0.918203592
+Orange,Corn,0.917544365
+Orange,Grape,0.916770756
+Orange,Apple,0.915942669
+Orange,Potato,0.915588975
+Boric acid,Maleic acid,0.929877996
+Boric acid,Sulfuric acid,0.928702712
+Boric acid,Formic acid,0.927879751
+Boric acid,Citric acid,0.923367023
+Boric acid,Peracetic acid,0.922734082
+Peracetic acid,Sulfuric acid,0.946069896
+Peracetic acid,Acetic acid,0.945947528
+Peracetic acid,Formic acid,0.941628277
+Peracetic acid,Maleic acid,0.926984072
+Peracetic acid,Boric acid,0.922734082
+Thiram,Topiramate,0.923044086
+Thiram,Perampanel,0.915130973
+Thiram,HEPE,0.911131501
+Thiram,Tezacaftor,0.910713077
+Thiram,Esketamine,0.909993052
+immobilized with Etorphine,of an Iodine,0.888732553
+immobilized with Etorphine,based on Lipoic acid,0.868686318
+immobilized with Etorphine,Eurotium amstelodami,0.868468285
+immobilized with Etorphine,to synthesize Terpineol,0.867471755
+immobilized with Etorphine,transformation of Daidzin,0.866120994
+effects of Etorphine,Morphine,0.936524034
+effects of Etorphine,before epidural Morphine,0.88453567
+effects of Etorphine,of epidural Morphine,0.883684516
+effects of Etorphine,Pilocarpine,0.881210923
+effects of Etorphine,Buprenorphine,0.880892336
+Azaperone,Perampanel,0.912706673
+Azaperone,Remimazolam,0.9093346
+Azaperone,Ranolazine,0.905568182
+Azaperone,Ponatinib,0.90403986
+Azaperone,Dapsone,0.903953075
+Butorphanol,Pomotrelvir,0.873113513
+Butorphanol,Piperonyl butoxide,0.871282458
+Butorphanol,Methoxsalen,0.863835454
+Butorphanol,Fenchone,0.861288905
+Butorphanol,Phenol,0.858830929
+Pilocarpine,Nifedipine,0.894809008
+Pilocarpine,Sertraline,0.894361913
+Pilocarpine,Morphine,0.891649187
+Pilocarpine,Carbamazepine,0.887802184
+Pilocarpine,Lidocaine,0.882509947
+Methane,Carbon dioxide,0.922486901
+Methane,Ammonia,0.917218089
+Methane,Ozone,0.912074447
+Methane,million) for Ammonia,0.898590922
+Methane,Acetate,0.897776008
+Albuterol,Ondansetron,0.885658264
+Albuterol,Sertraline,0.870762229
+Albuterol,Granisetron,0.864592075
+Albuterol,Remifentanil,0.864504635
+Albuterol,Fentanyl,0.860080242
+Berberine,Gingerol,0.915378451
+Berberine,Rhamnose,0.912503064
+Berberine,Pomegranate,0.904885054
+Berberine,Fisetin,0.900231481
+Berberine,Curcumin,0.893037081
+stimulate both Glucagon,reduction than Glucagon,0.932831645
+stimulate both Glucagon,find elevated Norepinephrine,0.858477235
+stimulate both Glucagon,Leptin,0.856339931
+stimulate both Glucagon,catabolism of Norepinephrine,0.846625209
+stimulate both Glucagon,"However, increasing Mannose",0.844690681
+reduction than Glucagon,stimulate both Glucagon,0.932831645
+reduction than Glucagon,Leptin,0.871091843
+reduction than Glucagon,"However, increasing Mannose",0.870355546
+reduction than Glucagon,find elevated Norepinephrine,0.86840421
+reduction than Glucagon,catabolism of Norepinephrine,0.864166975
+weeks and Fructose,Fructose,0.941722155
+weeks and Fructose,difference in Thiamine,0.862421632
+weeks and Fructose,Cysteamine or Lipoic acid,0.860724509
+weeks and Fructose,"However, increasing Mannose",0.858094037
+weeks and Fructose,Sucrose,0.856129885
+Sorghum,Soybean,0.921191752
+Sorghum,Barley,0.91473788
+Sorghum,Pineapple,0.899920702
+Sorghum,ratio in Soybean,0.887910545
+Sorghum,Millet seed,0.88238138
+Date,Corn,0.941540599
+Date,Rice,0.939430714
+Date,Banana,0.935002863
+Date,Apple,0.932328582
+Date,Coconut,0.931489587
+Lactic acid,Acetic acid,0.917793691
+Lactic acid,Citric acid,0.91353029
+Lactic acid,Benzoic acid,0.907678545
+Lactic acid,Acetate,0.903996408
+Lactic acid,Sulfuric acid,0.902675092
+Saxagliptin,Dapagliflozin,0.91200608
+Saxagliptin,Axitinib,0.887642801
+Saxagliptin,Dabigatran,0.878773868
+Saxagliptin,Crizotinib,0.877983868
+Saxagliptin,Delgocitinib,0.871252418
+Propofol,Fentanyl,0.919401228
+Propofol,Remifentanil,0.903457046
+Propofol,Ketamine,0.902649164
+Propofol,Lidocaine,0.89799273
+Propofol,Sevoflurane,0.882625163
+Desflurane,Sevoflurane,0.970389724
+Desflurane,Propofol,0.877912223
+Desflurane,Remifentanil,0.875821471
+Desflurane,Fentanyl,0.865350485
+Desflurane,Lidocaine,0.851666987
+of the Iron,to access Iron,0.901203334
+of the Iron,Hemin,0.89581269
+of the Iron,for the Oxygen,0.892032385
+of the Iron,driven by Iron,0.88741374
+of the Iron,that are Iron,0.884466112
+sequestering of Iron,effects of Iron,0.880967438
+sequestering of Iron,sources including Iron,0.875668883
+sequestering of Iron,to access Iron,0.869863629
+sequestering of Iron,driven by Iron,0.865111351
+sequestering of Iron,sources of Iodine,0.849856496
+Diclofenac,Dicloxacillin,0.900418758
+Diclofenac,Meloxicam,0.888920665
+Diclofenac,Minocycline,0.883206606
+Diclofenac,Tacrolimu,0.867042422
+Diclofenac,Dapagliflozin,0.866343856
+Acrylic Acid,Methylcellulose,0.878149509
+Acrylic Acid,Aminosalicylic acid,0.877506495
+Acrylic Acid,Formic acid,0.87528193
+Acrylic Acid,Maleic acid,0.873776197
+Acrylic Acid,Polyvinyl alcohol,0.873418868
+Cadaverine,in vitro Calcium,0.811321676
+Cadaverine,B2) and Daidzin,0.80855453
+Cadaverine,broth or Wheat,0.806090295
+Cadaverine,Heparin,0.805323243
+Cadaverine,Caffeine,0.802976072
+Dodecyl sulfate,Carboxymethylcellulose,0.87417388
+Dodecyl sulfate,Acrylic Acid,0.856298506
+Dodecyl sulfate,Propylene glycol,0.847367704
+Dodecyl sulfate,Methylcellulose,0.847290039
+Dodecyl sulfate,Dextran,0.838606179
+Cytochrome C,Chlorophyll B,0.862590909
+Cytochrome C,Coenzyme A,0.856862009
+Cytochrome C,Chlorophyll A,0.854946494
+Cytochrome C,Glucose oxidase,0.846860468
+Cytochrome C,Glutathione,0.845378399
+Levocarnitine,Ranolazine,0.91273129
+Levocarnitine,Ranitidine,0.900364101
+Levocarnitine,Tacrolimu,0.898509026
+Levocarnitine,for the Tucatinib,0.898120642
+Levocarnitine,Pomotrelvir,0.897652924
+components of Garlic,Gingerol,0.910324395
+components of Garlic,Rhamnose,0.897198558
+components of Garlic,Pomegranate,0.892074049
+components of Garlic,Isoflavone,0.888284087
+components of Garlic,Berberine,0.888254523
+Epigallocatechin,Ginsenoside Rg1,0.860488296
+Epigallocatechin,Isoflavone,0.859403849
+Epigallocatechin,Quercetin,0.856173635
+Epigallocatechin,Ginsenoside,0.851462603
+Epigallocatechin,Ergosterol,0.851150692
+Thymol,Taurine,0.868516564
+Thymol,Tacrolimu,0.855935335
+Thymol,Dapsone,0.855481446
+Thymol,Esketamine,0.855208695
+Thymol,Perampanel,0.854937196
+sensitivity for Ammonia,million) for Ammonia,0.931962013
+sensitivity for Ammonia,Ammonia,0.908527613
+sensitivity for Ammonia,Urea,0.895288169
+sensitivity for Ammonia,Peracetic acid,0.893408656
+sensitivity for Ammonia,for the Oxygen,0.883740425
+million) for Ammonia,sensitivity for Ammonia,0.931962013
+million) for Ammonia,Ammonia,0.905898333
+million) for Ammonia,Methane,0.898590922
+million) for Ammonia,for the Oxygen,0.897630155
+million) for Ammonia,Peracetic acid,0.889018536
+MCC,Peanut,0.90845412
+MCC,Serine,0.907975256
+MCC,Oat,0.907935441
+MCC,Oyster,0.907107115
+MCC,Ammonia,0.904534578
+Methionine,Cysteine,0.920320272
+Methionine,Valine,0.912752509
+Methionine,Arginine,0.912646651
+Methionine,Alanine,0.910560906
+Methionine,Phenylalanine,0.903130054
+Citric acid,Boric acid,0.923367023
+Citric acid,Sulfuric acid,0.921362281
+Citric acid,Peracetic acid,0.921044767
+Citric acid,Formic acid,0.920631945
+Citric acid,Uric acid,0.919131875
+Amylose,Pectin,0.888656676
+Amylose,Xylazine,0.879092932
+Amylose,Trypsin,0.875116825
+Amylose,Galactose,0.86892724
+Amylose,Sorbitol,0.868449986
+dose of Methotrexate,Methotrexate,0.966971099
+dose of Methotrexate,day before Methotrexate,0.96556437
+dose of Methotrexate,prevention of Cisplatin,0.877551556
+dose of Methotrexate,response to Paclitaxel,0.875160336
+dose of Methotrexate,Carboplatin,0.87164557
+day before Methotrexate,dose of Methotrexate,0.96556437
+day before Methotrexate,Methotrexate,0.953372777
+day before Methotrexate,prevention of Cisplatin,0.879385173
+day before Methotrexate,Dexamethasone,0.873402536
+day before Methotrexate,Triamcinolone,0.86750114
+Fluconazole,Miconazole,0.985283732
+Fluconazole,Voriconazole,0.976479113
+Fluconazole,Itraconazole,0.940714955
+Fluconazole,Metronidazole,0.932690918
+Fluconazole,Vancomycin,0.893780589
+Voriconazole,Fluconazole,0.976479113
+Voriconazole,Miconazole,0.970865846
+Voriconazole,Itraconazole,0.935987175
+Voriconazole,Metronidazole,0.930994093
+Voriconazole,Vancomycin,0.891274333
+Ivacaftor,Dapagliflozin,0.915483952
+Ivacaftor,Apixaban,0.908400476
+Ivacaftor,Rivaroxaban,0.898659468
+Ivacaftor,Eltrombopag,0.897106051
+Ivacaftor,Ibrutinib,0.891810894
+Tezacaftor,Perampanel,0.912766457
+Tezacaftor,Thiram,0.910713077
+Tezacaftor,Dapsone,0.910554171
+Tezacaftor,Ponatinib,0.904841959
+Tezacaftor,Topiroxostat,0.903568208
+to access Iron,driven by Iron,0.925224066
+to access Iron,that are Iron,0.911577821
+to access Iron,Hemin,0.903110027
+to access Iron,of the Iron,0.901203334
+to access Iron,effects of Iron,0.897174478
+that are Iron,to access Iron,0.911577821
+that are Iron,Hemin,0.891723275
+that are Iron,Antimony,0.89027077
+that are Iron,of various Oxygen,0.889577568
+that are Iron,driven by Iron,0.887646198
+"1,10-Phenanthroline",4-Methylimidazole,0.875674188
+"1,10-Phenanthroline","1,3-Propanediol",0.869655907
+"1,10-Phenanthroline",Quinoline,0.868458271
+"1,10-Phenanthroline",Pyrrolidine,0.8636868
+"1,10-Phenanthroline",Benzimidazole,0.836369753
+P-Cresol,M-Cresol,0.980091512
+P-Cresol,Phenol,0.892893434
+P-Cresol,Bisphenol A,0.868300796
+P-Cresol,Isopropyl alcohol,0.866812766
+P-Cresol,Piperonyl butoxide,0.858906507
+Genipin,Ginger,0.920783997
+Genipin,Mangostin,0.917598903
+Genipin,Daidzin,0.915643156
+Genipin,Naringin,0.913373947
+Genipin,Gingerol,0.907390654
+Mescaline,Silanol,0.89752233
+Mescaline,Turmeric,0.895529091
+Mescaline,Esketamine,0.889840007
+Mescaline,Almond,0.88824594
+Mescaline,Perampanel,0.886393547
+Carob,Ginger,0.920761406
+Carob,Pea,0.920506418
+Carob,Herring,0.91784358
+Carob,Peanut,0.913880825
+Carob,Almond,0.909245074
+Strawberry,Barley,0.93431437
+Strawberry,Peach,0.933261156
+Strawberry,Almond,0.931363106
+Strawberry,Peanut,0.925661385
+Strawberry,Beet,0.923048556
+Leptin,reduction than Glucagon,0.871091843
+Leptin,Metformin,0.866472423
+Leptin,Insulin human,0.858456135
+Leptin,Testosterone,0.857475102
+Leptin,stimulate both Glucagon,0.856339931
+Metformin,Insulin detemir,0.877119958
+Metformin,Ranitidine,0.872868717
+Metformin,Ribavirin,0.869883239
+Metformin,Leptin,0.866472423
+Metformin,Amiodarone,0.860268474
+Pyridoxine,Povidone,0.874375403
+Pyridoxine,Cysteine,0.87331152
+Pyridoxine,difference in Thiamine,0.86896807
+Pyridoxine,Selenocysteine,0.868211925
+Pyridoxine,Cysteamine or Lipoic acid,0.866710424
+Fig,dATP,0.88670218
+Fig,Peanut,0.886250496
+Fig,Ginger,0.884695292
+Fig,Pea,0.877072096
+Fig,Clove,0.875066578
+Pyrrolidine,Imidazole,0.892018676
+Pyrrolidine,Dipyridamole,0.891448379
+Pyrrolidine,Quinoline,0.884639025
+Pyrrolidine,Uridine,0.876889348
+Pyrrolidine,4-Methylimidazole,0.875613809
+Bempedoic acid,Parthenolide,0.905707955
+Bempedoic acid,Ellagic acid,0.902803659
+Bempedoic acid,Gibberellic acid,0.900337517
+Bempedoic acid,Zanubrutinib,0.895849764
+Bempedoic acid,Pomotrelvir,0.892999589
+Ezetimibe,Eculizumab,0.88914448
+Ezetimibe,Olaparib,0.878795505
+Ezetimibe,Ravulizumab,0.877256095
+Ezetimibe,Vedolizumab,0.876600266
+Ezetimibe,Pembrolizumab,0.876401246
+of peripheral Oxygen,of various Oxygen,0.877419829
+of peripheral Oxygen,effects of Iron,0.849299371
+of peripheral Oxygen,Testosterone,0.84916091
+of peripheral Oxygen,for the Oxygen,0.847691238
+of peripheral Oxygen,composition of Egg,0.846808076
+patient's lowest Oxygen,of peripheral Oxygen,0.845172167
+patient's lowest Oxygen,in defining Heparin,0.811352015
+patient's lowest Oxygen,the global Poultry,0.804234624
+patient's lowest Oxygen,difference in Thiamine,0.803655207
+patient's lowest Oxygen,Perampanel,0.802323937
+Cobalamin,difference in Thiamine,0.888318896
+Cobalamin,Coenzyme A,0.874658823
+Cobalamin,Glutathione,0.872679472
+Cobalamin,bilirubin and Iron,0.870349467
+Cobalamin,Ascorbic acid,0.865212679
+Eculizumab,Vedolizumab,0.965875208
+Eculizumab,Tocilizumab,0.965111315
+Eculizumab,Ravulizumab,0.95372045
+Eculizumab,Pembrolizumab,0.952843666
+Eculizumab,Bevacizumab,0.933999658
+Ravulizumab,Vedolizumab,0.95588994
+Ravulizumab,Eculizumab,0.95372045
+Ravulizumab,Pembrolizumab,0.950323224
+Ravulizumab,Tocilizumab,0.943553686
+Ravulizumab,Sacituzumab govitecan,0.931675315
+Sacituzumab govitecan,Tocilizumab,0.94057548
+Sacituzumab govitecan,Bevacizumab,0.936833143
+Sacituzumab govitecan,Vedolizumab,0.934794843
+Sacituzumab govitecan,Ravulizumab,0.931675315
+Sacituzumab govitecan,Eculizumab,0.9292593
+Pembrolizumab,Vedolizumab,0.960178554
+Pembrolizumab,Tocilizumab,0.956763446
+Pembrolizumab,Eculizumab,0.952843666
+Pembrolizumab,Ravulizumab,0.950323224
+Pembrolizumab,Sacituzumab govitecan,0.929023862
+Rogaratinib,Crizotinib,0.941414773
+Rogaratinib,Ibrutinib,0.936695397
+Rogaratinib,Axitinib,0.935054898
+Rogaratinib,Ribociclib,0.932012498
+Rogaratinib,Delgocitinib,0.926282763
+Doxorubicin,Docetaxel,0.912772298
+Doxorubicin,Carboplatin,0.902272642
+Doxorubicin,Lobaplatin,0.898368001
+Doxorubicin,Daunorubicin,0.898262501
+Doxorubicin,prevention of Cisplatin,0.89821285
+Enfortumab vedotin,Delgocitinib,0.916291475
+Enfortumab vedotin,Rogaratinib,0.912916541
+Enfortumab vedotin,Ibrutinib,0.912692249
+Enfortumab vedotin,Axitinib,0.909700155
+Enfortumab vedotin,Ivarmacitinib,0.909656167
+Aminosalicylic acid,Salicylic acid,0.949241996
+Aminosalicylic acid,Formic acid,0.902543068
+Aminosalicylic acid,Maleic acid,0.89987886
+Aminosalicylic acid,Aminobenzoic acid,0.899714112
+Aminosalicylic acid,Sulfuric acid,0.898104191
+Vedolizumab,Tocilizumab,0.968676567
+Vedolizumab,Eculizumab,0.965875208
+Vedolizumab,Pembrolizumab,0.960178554
+Vedolizumab,Ravulizumab,0.95588994
+Vedolizumab,Bevacizumab,0.935117424
+Infliximab,Ravulizumab,0.877859414
+Infliximab,Eculizumab,0.869849503
+Infliximab,Vedolizumab,0.852729678
+Infliximab,Pembrolizumab,0.851586103
+Infliximab,Tocilizumab,0.844776213
+Dextran,Maltodextrin,0.907823324
+Dextran,Polysorbate 80,0.881733477
+Dextran,Gelatin,0.854468286
+Dextran,Methylcellulose,0.853483856
+Dextran,Polyvinyl alcohol,0.841128588
+Elobixibat,Topiroxostat,0.900321186
+Elobixibat,Coumapho,0.882173538
+Elobixibat,Zanubrutinib,0.880589724
+Elobixibat,Perampanel,0.878655255
+Elobixibat,Ponatinib,0.876921892
+Ginsenoside Rg1,Ginsenoside,0.961875498
+Ginsenoside Rg1,Glycyrrhiza glabra,0.87195164
+Ginsenoside Rg1,Gingerol,0.864699602
+Ginsenoside Rg1,Naringin,0.864610195
+Ginsenoside Rg1,components of Garlic,0.863041699
+Ginsenoside,Ginsenoside Rg1,0.961875498
+Ginsenoside,Naringin,0.893753052
+Ginsenoside,Gingerol,0.888685465
+Ginsenoside,components of Garlic,0.876994431
+Ginsenoside,Genipin,0.876011848
+2'-Fucosyllactose,N-Acetylglucosamine,0.890987277
+2'-Fucosyllactose,Galactose,0.881461024
+2'-Fucosyllactose,Fructose,0.86945349
+2'-Fucosyllactose,Glucosamine,0.866666079
+2'-Fucosyllactose,Cysteamine or Lipoic acid,0.853054345
+Acetylsalicylic acid,Aminosalicylic acid,0.896939754
+Acetylsalicylic acid,Cysteamine or Lipoic acid,0.893618822
+Acetylsalicylic acid,Salicylic acid,0.888146043
+Acetylsalicylic acid,based on Lipoic acid,0.872419238
+Acetylsalicylic acid,Aminobenzoic acid,0.869845152
+highlight the Paclitaxel,Paclitaxel,0.963460088
+highlight the Paclitaxel,response to Paclitaxel,0.953550816
+highlight the Paclitaxel,of developing Cisplatin,0.914700627
+highlight the Paclitaxel,prevention of Cisplatin,0.907004952
+highlight the Paclitaxel,Lobaplatin,0.905930996
+response to Paclitaxel,Paclitaxel,0.964272439
+response to Paclitaxel,highlight the Paclitaxel,0.953550816
+response to Paclitaxel,prevention of Cisplatin,0.902421534
+response to Paclitaxel,of developing Cisplatin,0.890439689
+response to Paclitaxel,Carboplatin,0.886535287
+Adenosine,Guanosine,0.836883903
+Adenosine,Pyridoxine,0.815610409
+Adenosine,Norepinephrine,0.813450813
+Adenosine,Choline,0.812734783
+Adenosine,Inositol,0.81151104
+Xanthine,Xylazine,0.919496834
+Xanthine,Perampanel,0.913325667
+Xanthine,Dapsone,0.904303133
+Xanthine,Esketamine,0.90249908
+Xanthine,Betaine,0.901800275
+Guanosine,Uracil,0.878346384
+Guanosine,Carnosine,0.876813948
+Guanosine,Uridine,0.875581205
+Guanosine,Lysine,0.866519988
+Guanosine,Glycine,0.85630548
+and the Nirmatrelvir,profile with Nirmatrelvir,0.948592305
+and the Nirmatrelvir,Pomotrelvir,0.918301344
+and the Nirmatrelvir,for the Tucatinib,0.914609373
+and the Nirmatrelvir,Remimazolam,0.898087382
+and the Nirmatrelvir,Levocarnitine,0.896036744
+profile with Nirmatrelvir,and the Nirmatrelvir,0.948592305
+profile with Nirmatrelvir,ratio of Tucatinib,0.895093441
+profile with Nirmatrelvir,Pomotrelvir,0.892063141
+profile with Nirmatrelvir,Dapagliflozin,0.884639859
+profile with Nirmatrelvir,for the Tucatinib,0.88402766
+ratio of Tucatinib,for the Tucatinib,0.961941838
+ratio of Tucatinib,Axitinib,0.929122925
+ratio of Tucatinib,Ponatinib,0.924477339
+ratio of Tucatinib,Rogaratinib,0.919169128
+ratio of Tucatinib,Ibrutinib,0.918907881
+for the Tucatinib,ratio of Tucatinib,0.961941838
+for the Tucatinib,Ponatinib,0.937593758
+for the Tucatinib,Rogaratinib,0.917455316
+for the Tucatinib,Ibrutinib,0.915751338
+for the Tucatinib,Axitinib,0.914650321
+Dicloxacillin,Ciprofloxacin,0.924075484
+Dicloxacillin,Enrofloxacin,0.902184248
+Dicloxacillin,Amoxicillin,0.901870131
+Dicloxacillin,Diclofenac,0.900418758
+Dicloxacillin,Clarithromycin,0.889529645
+Dabigatran,Dapagliflozin,0.91278398
+Dabigatran,Rivaroxaban,0.906995893
+Dabigatran,Niraparib,0.905523419
+Dabigatran,Eltrombopag,0.901013136
+Dabigatran,Apixaban,0.899286449
+Itraconazole,Fluconazole,0.940714955
+Itraconazole,Miconazole,0.938438177
+Itraconazole,Voriconazole,0.935987175
+Itraconazole,Metronidazole,0.911854029
+Itraconazole,Vancomycin,0.87471211
+Rifampin,Vancomycin,0.922462881
+Rifampin,Amoxicillin,0.918929458
+Rifampin,Cefazolin,0.915237188
+Rifampin,Colistin,0.898835242
+Rifampin,Natamycin,0.897234023
+Pomotrelvir,and the Nirmatrelvir,0.918301344
+Pomotrelvir,Perampanel,0.917727709
+Pomotrelvir,Topiroxostat,0.911271811
+Pomotrelvir,Thiamphenicol,0.910489261
+Pomotrelvir,Fenchone,0.908091247
+"adjusted regression, Selenium",at low Selenium,0.877034664
+"adjusted regression, Selenium",difference in Thiamine,0.87019515
+"adjusted regression, Selenium",inhalation of Cadmium,0.856348813
+"adjusted regression, Selenium",Selenium,0.856123567
+"adjusted regression, Selenium","However, increasing Mannose",0.852019429
+at low Selenium,Selenium,0.933693826
+at low Selenium,than low-mineral Water,0.895751476
+at low Selenium,Selenocysteine,0.893174469
+at low Selenium,difference in Thiamine,0.882665753
+at low Selenium,Cadmium,0.877508402
+Bean,Rice,0.981994152
+Bean,Potato,0.974025488
+Bean,Wheat,0.972507298
+Bean,Banana,0.969464302
+Bean,Apple,0.969338775
+Benzimidazole,Imidazole,0.949387908
+Benzimidazole,4-Methylimidazole,0.928476393
+Benzimidazole,Carbendazim,0.918819904
+Benzimidazole,Carbazole,0.913566887
+Benzimidazole,Remimazolam,0.885966301
+Enrofloxacin,Ciprofloxacin,0.955920637
+Enrofloxacin,Dicloxacillin,0.902184248
+Enrofloxacin,Clarithromycin,0.876457453
+Enrofloxacin,Diclofenac,0.862997651
+Enrofloxacin,Vancomycin,0.855771542
+Fulvestrant,Repotrectinib,0.885307133
+Fulvestrant,Ponatinib,0.876561344
+Fulvestrant,and the Nirmatrelvir,0.871334016
+Fulvestrant,Azaperone,0.870942295
+Fulvestrant,Ibrutinib,0.869862378
+PIK3CA,Coumapho,0.865497589
+PIK3CA,Esketamine,0.864931703
+PIK3CA,Thiram,0.863692105
+PIK3CA,"step, the Terpineol",0.860806167
+PIK3CA,Tezacaftor,0.859281301
+Palbociclib,Ivarmacitinib,0.923051119
+Palbociclib,Delgocitinib,0.921275496
+Palbociclib,Ibrutinib,0.917089283
+Palbociclib,Ribociclib,0.915636063
+Palbociclib,Pembrolizumab,0.903295517
+Ribociclib,Rogaratinib,0.932012498
+Ribociclib,Ibrutinib,0.919913709
+Ribociclib,Crizotinib,0.916630924
+Ribociclib,Palbociclib,0.915636063
+Ribociclib,for the Tucatinib,0.911408126
+Goserelin,Genipin,0.890129268
+Goserelin,Granisetron,0.884432733
+Goserelin,Esketamine,0.881249309
+Goserelin,Fisetin,0.878114343
+Goserelin,Argatroban,0.877493083
+GDC-0152,of 35S:GmCOL1a Soybean,0.868673623
+GDC-0152,Bempedoic acid,0.857777774
+GDC-0152,B2) and Daidzin,0.856844902
+GDC-0152,AIV in Poultry,0.855765164
+GDC-0152,Gibberellic acid,0.852633417
+Dipyridamole,Imidazole,0.91565007
+Dipyridamole,4-Methylimidazole,0.903364301
+Dipyridamole,Pyrrolidine,0.891448379
+Dipyridamole,Carbazole,0.88135457
+Dipyridamole,Benzimidazole,0.879705429
+Lapachone,Dapsone,0.904993415
+Lapachone,Coumapho,0.903553843
+Lapachone,Genipin,0.898587763
+Lapachone,Esketamine,0.896791339
+Lapachone,Xylazine,0.895829856
+Famotidine,Ranitidine,0.921659112
+Famotidine,Sertraline,0.895860076
+Famotidine,Levocarnitine,0.883695841
+Famotidine,Remifentanil,0.878472447
+Famotidine,Ranolazine,0.876318216
+of the Dopamine,in the Dopamine,0.980200291
+of the Dopamine,Dopamine,0.955449939
+of the Dopamine,Serotonin,0.891885638
+of the Dopamine,catabolism of Norepinephrine,0.869952798
+of the Dopamine,effects of Etorphine,0.866318643
+in the Dopamine,of the Dopamine,0.980200291
+in the Dopamine,Dopamine,0.960185468
+in the Dopamine,Serotonin,0.89253509
+in the Dopamine,effects of Etorphine,0.868997276
+in the Dopamine,catabolism of Norepinephrine,0.865012825
+Deoxycholic acid,Cysteamine or Lipoic acid,0.883875012
+Deoxycholic acid,Tocopherol,0.871230841
+Deoxycholic acid,based on Lipoic acid,0.86608547
+Deoxycholic acid,Fenchone,0.86353302
+Deoxycholic acid,Choline,0.863146365
+Ginger,Peanut,0.931242406
+Ginger,Almond,0.929767728
+Ginger,Gingerol,0.927752078
+Ginger,Clove,0.923705995
+Ginger,Genipin,0.920783997
+Gingerol,Ginger,0.927752078
+Gingerol,Berberine,0.915378451
+Gingerol,components of Garlic,0.910324395
+Gingerol,Genipin,0.907390654
+Gingerol,Pomegranate,0.907320082
+Paroxetine,Fluoxetine,0.964450777
+Paroxetine,Clozapine,0.881118476
+Paroxetine,Olanzapine,0.877099037
+Paroxetine,Ropinirole,0.861552954
+Paroxetine,Levetiracetam,0.858931184
+Tryptophan into Indole,indolepyruvate and Indole,0.92128998
+Tryptophan into Indole,Tryptophan,0.91442579
+Tryptophan into Indole,to catabolizing Tryptophan,0.907880783
+Tryptophan into Indole,concentration; and Tryptophan,0.892620206
+Tryptophan into Indole,Phenylalanine,0.873187542
+indolepyruvate and Indole,Tryptophan into Indole,0.92128998
+indolepyruvate and Indole,of an Inositol,0.868819475
+indolepyruvate and Indole,4-Methylimidazole,0.867292047
+indolepyruvate and Indole,"3-hydroxycarbofuran, deethyl Atrazine",0.859892368
+indolepyruvate and Indole,Indole,0.855581641
+Glucosamine,Galactose,0.91172564
+Glucosamine,N-Acetylglucosamine,0.892314076
+Glucosamine,Fructose,0.888114512
+Glucosamine,Glycine,0.869113505
+Glucosamine,2'-Fucosyllactose,0.866666079
+and industrial Water,the lake Water,0.91707623
+and industrial Water,Poultry,0.86644125
+and industrial Water,than low-mineral Water,0.865443587
+and industrial Water,Ammonia,0.865331292
+and industrial Water,Chlorine,0.863208711
+the lake Water,and industrial Water,0.91707623
+the lake Water,Ammonia,0.877728105
+the lake Water,h of Water,0.877534091
+the lake Water,composition of Egg,0.871982336
+the lake Water,the global Poultry,0.868672848
+demonstrate that Yeast,in the Yeast,0.881686389
+demonstrate that Yeast,Peanut,0.866882086
+demonstrate that Yeast,characteristics of Egg,0.855694771
+demonstrate that Yeast,Oyster,0.854422331
+demonstrate that Yeast,that are Iron,0.8521806
+in the Yeast,functions in Wheat,0.91156435
+in the Yeast,Strawberry,0.89497304
+in the Yeast,Peanut,0.889487743
+in the Yeast,demonstrate that Yeast,0.881686389
+in the Yeast,Pea,0.880422533
+Glycine,Lysine,0.92421484
+Glycine,Valine,0.919211626
+Glycine,Alanine,0.916385531
+Glycine,Proline,0.914045155
+Glycine,Amino acids,0.909367204
+chondrocytes in Fibrin,in a Fibrin,0.897561431
+chondrocytes in Fibrin,Fibrin,0.887077272
+chondrocytes in Fibrin,Hyaluronidase,0.864662886
+chondrocytes in Fibrin,Recombinant human Thrombopoietin,0.860806227
+chondrocytes in Fibrin,Plasminogen,0.841620207
+in a Fibrin,Fibrin,0.935800135
+in a Fibrin,chondrocytes in Fibrin,0.897561431
+in a Fibrin,Gelatin,0.881318927
+in a Fibrin,in defining Heparin,0.878686905
+in a Fibrin,Thrombin,0.869512081
+Cefazolin,Vancomycin,0.919077158
+Cefazolin,Rifampin,0.915237188
+Cefazolin,Amoxicillin,0.912781835
+Cefazolin,Colistin,0.904038668
+Cefazolin,Meropenem,0.893055081
+Cenobamate,Perampanel,0.907108068
+Cenobamate,Minocycline,0.904944181
+Cenobamate,Thiamphenicol,0.904444754
+Cenobamate,Pomotrelvir,0.902102709
+Cenobamate,in recognizing Florfenicol,0.896973252
+Botrytis cinerea,Fusarium oxysporum,0.912817359
+Botrytis cinerea,Fusarium graminearum,0.878493428
+Botrytis cinerea,Bacillus cereus,0.876480222
+Botrytis cinerea,Psilocybin,0.873582006
+Botrytis cinerea,AIV in Poultry,0.864682317
+Erythromycin,Clarithromycin,0.918623686
+Erythromycin,Vancomycin,0.910492182
+Erythromycin,Natamycin,0.894869864
+Erythromycin,Polymyxin B,0.89245671
+Erythromycin,Tobramycin,0.886771679
+Astaxanthin,Xanthine,0.900268555
+Astaxanthin,Sakuranetin,0.891810536
+Astaxanthin,Coumapho,0.88573575
+Astaxanthin,Topiroxostat,0.884447932
+Astaxanthin,Bempedoic acid,0.883071721
+Maltodextrin,Dextran,0.907823324
+Maltodextrin,Polysorbate 80,0.860560358
+Maltodextrin,Methylcellulose,0.853466213
+Maltodextrin,Carboxymethylcellulose,0.845207632
+Maltodextrin,based on Lipoic acid,0.843744814
+Phenylalanine,Valine,0.917709708
+Phenylalanine,Alanine,0.914663851
+Phenylalanine,Methionine,0.903130054
+Phenylalanine,Cysteine,0.896009207
+Phenylalanine,Asparagine,0.894101918
+4-hydroxybenzoic acid,"3-hydroxycarbofuran, deethyl Atrazine",0.939515829
+4-hydroxybenzoic acid,4-Nitrocatechol,0.926982462
+4-hydroxybenzoic acid,5-Hydroxymethylfurfural,0.925675392
+4-hydroxybenzoic acid,Aminobenzoic acid,0.915505886
+4-hydroxybenzoic acid,4-Methylimidazole,0.913140893
+HS the Calcium,"However, increasing Mannose",0.876129389
+HS the Calcium,"step, the Terpineol",0.870944083
+HS the Calcium,in the Yeast,0.860362053
+HS the Calcium,with four Potassium,0.856479347
+HS the Calcium,"flora, the Daidzin",0.854434013
+the cytoplasmic Calcium,Cytochrome C,0.832351208
+the cytoplasmic Calcium,of cation-independent Mannose,0.815586925
+the cytoplasmic Calcium,of an Inositol,0.814109087
+the cytoplasmic Calcium,HS the Calcium,0.810013473
+the cytoplasmic Calcium,in the Dopamine,0.80705148
+concentration; and Tryptophan,Tryptophan,0.91137141
+concentration; and Tryptophan,to catabolizing Tryptophan,0.905587375
+concentration; and Tryptophan,Tryptophan into Indole,0.892620206
+concentration; and Tryptophan,Methionine,0.868902683
+concentration; and Tryptophan,difference in Thiamine,0.866027355
+to catabolizing Tryptophan,Tryptophan into Indole,0.907880783
+to catabolizing Tryptophan,concentration; and Tryptophan,0.905587375
+to catabolizing Tryptophan,catabolism of Norepinephrine,0.901745498
+to catabolizing Tryptophan,Tryptophan,0.886478305
+to catabolizing Tryptophan,Methionine,0.862902939
+Apple,Rice,0.973965764
+Apple,Banana,0.973110914
+Apple,Bean,0.969338775
+Apple,Coconut,0.967739105
+Apple,Potato,0.966451466
+inhalation of Cadmium,Cadmium,0.879876733
+inhalation of Cadmium,of urinary Iodine,0.872698843
+inhalation of Cadmium,arsenic + Chromium,0.872393727
+inhalation of Cadmium,interaction between Florfenicol,0.866417706
+inhalation of Cadmium,of developing Cisplatin,0.864603639
+ratio in Soybean,Soybean,0.947602808
+ratio in Soybean,content in Pea,0.913414598
+ratio in Soybean,contents in Pea,0.908509016
+ratio in Soybean,of 35S:GmCOL1a Soybean,0.903229356
+ratio in Soybean,Sorghum,0.887910545
+of 35S:GmCOL1a Soybean,ratio in Soybean,0.903229356
+of 35S:GmCOL1a Soybean,GDC-0152,0.868673623
+of 35S:GmCOL1a Soybean,Soybean,0.867801547
+of 35S:GmCOL1a Soybean,B2) and Daidzin,0.863762319
+of 35S:GmCOL1a Soybean,AIV in Poultry,0.857710123
+Tomato,Potato,0.973839045
+Tomato,Wheat,0.963937283
+Tomato,Grape,0.956523061
+Tomato,Banana,0.95388943
+Tomato,Bean,0.953237534
+Corn,Rice,0.973086536
+Corn,Bean,0.967912316
+Corn,Banana,0.96499598
+Corn,Apple,0.962899685
+Corn,Coconut,0.961877823
+Taurine,Theanine,0.92260927
+Taurine,Urea,0.905788541
+Taurine,Serine,0.903711438
+Taurine,Antimony,0.901897311
+Taurine,Proline,0.898504376
+Uracil,Uridine,0.909757793
+Uracil,Guanosine,0.878346384
+Uracil,Bicalutamide,0.854410172
+Uracil,of developing Cisplatin,0.854348183
+Uracil,Tacrolimu,0.853970289
+in relative Water,to final Ethanol,0.883943439
+in relative Water,of various Oxygen,0.880404115
+in relative Water,Ammonia,0.880325854
+in relative Water,than low-mineral Water,0.879318833
+in relative Water,million) for Ammonia,0.876720428
+Carvedilol,Losartan,0.914240479
+Carvedilol,Nifedipine,0.882832587
+Carvedilol,Ondansetron,0.864985943
+Carvedilol,Dapagliflozin,0.857876897
+Carvedilol,Ranolazine,0.853772998
+effects of Iron,to access Iron,0.897174478
+effects of Iron,sources including Iron,0.893487811
+effects of Iron,Cadmium,0.886158943
+effects of Iron,driven by Iron,0.885794938
+effects of Iron,"Regarding interactions, Wheat",0.884492576
+sources including Iron,sources of Iodine,0.899692476
+sources including Iron,effects of Iron,0.893487811
+sources including Iron,to access Iron,0.878130972
+sources including Iron,sequestering of Iron,0.875668883
+sources including Iron,driven by Iron,0.874827743
+Chlorophyll A,Chlorophyll B,0.997715116
+Chlorophyll A,Cytochrome C,0.854946494
+Chlorophyll A,content in Pea,0.829320133
+Chlorophyll A,Rhodamine 6G,0.816640854
+Chlorophyll A,ratio in Soybean,0.815331459
+Triclosan,Citric acid,0.897147596
+Triclosan,Tezacaftor,0.896186233
+Triclosan,Perampanel,0.894887269
+Triclosan,Thiram,0.894309878
+Triclosan,Trehalose,0.89356482
+Pineapple,Peach,0.902057827
+Pineapple,Sorghum,0.899920702
+Pineapple,Barley,0.895579159
+Pineapple,Pea,0.890536368
+Pineapple,Genipin,0.889057338
+Chlorophyll B,Chlorophyll A,0.997715116
+Chlorophyll B,Cytochrome C,0.862590909
+Chlorophyll B,content in Pea,0.825355053
+Chlorophyll B,Rhodamine 6G,0.816478074
+Chlorophyll B,concentration; and Tryptophan,0.812234282
+Beet,Strawberry,0.923048556
+Beet,Almond,0.915907204
+Beet,Peach,0.914847016
+Beet,Oat,0.905640304
+Beet,Barley,0.904355347
+Gibberellic acid,Ellagic acid,0.901087105
+Gibberellic acid,Bempedoic acid,0.900337517
+Gibberellic acid,Glycyrrhiza glabra,0.888133407
+Gibberellic acid,Ferulic acid,0.88408488
+Gibberellic acid,Genipin,0.883977652
+Heparin,in defining Heparin,0.925708771
+Heparin,reports of Heparin,0.92305249
+Heparin,Thrombin,0.89510572
+Heparin,Plasminogen,0.889903188
+Heparin,Amiodarone,0.887182713
+Methotrexate,dose of Methotrexate,0.966971099
+Methotrexate,day before Methotrexate,0.953372777
+Methotrexate,Irinotecan,0.885677278
+Methotrexate,Carboplatin,0.883198619
+Methotrexate,Daunorubicin,0.879502177
+Methylene blue,Prussian blue,0.90363431
+Methylene blue,Piperonyl butoxide,0.892570853
+Methylene blue,Benzoic acid,0.885008574
+Methylene blue,Methoxsalen,0.882718086
+Methylene blue,Fenchone,0.878445506
+Eosin,Oyster,0.86139828
+Eosin,Opium,0.859348416
+Eosin,Iodine,0.855520964
+Eosin,characteristics of Egg,0.852347851
+Eosin,Esketamine,0.85138166
+Sofosbuvir,Ponatinib,0.88572228
+Sofosbuvir,Ritonavir,0.882669926
+Sofosbuvir,Ivacaftor,0.879471779
+Sofosbuvir,Dapagliflozin,0.877310574
+Sofosbuvir,Ibrutinib,0.876482546
+Ribavirin,Ritonavir,0.902567506
+Ribavirin,that include Tenofovir,0.895540237
+Ribavirin,co-administered with Tenofovir,0.87758863
+Ribavirin,Rifampin,0.875144005
+Ribavirin,Metformin,0.869883239
+Safflower,Sorghum,0.866392493
+Safflower,Pomegranate,0.864618301
+Safflower,Sakuranetin,0.864161849
+Safflower,Watercres,0.863884985
+Safflower,Soybean,0.863853991
+Apixaban,Rivaroxaban,0.938942194
+Apixaban,Argatroban,0.920269132
+Apixaban,Ivacaftor,0.908400476
+Apixaban,Axitinib,0.905397475
+Apixaban,Ponatinib,0.900689602
+dATP,Dapsone,0.92403084
+dATP,ATP,0.909726262
+dATP,Daidzin,0.902238846
+dATP,Thiram,0.900003076
+dATP,Carob,0.898482203
+Mometasone,Albuterol,0.858252525
+Mometasone,Ondansetron,0.858080089
+Mometasone,Granisetron,0.85706687
+Mometasone,Dexamethasone,0.857047737
+Mometasone,Melatonin,0.849074841
+Ranitidine,Ranolazine,0.950226963
+Ranitidine,Famotidine,0.921659112
+Ranitidine,Sertraline,0.900900006
+Ranitidine,Levocarnitine,0.900364101
+Ranitidine,Amiodarone,0.894687951
+Valine,Alanine,0.954007983
+Valine,Leucine,0.928804159
+Valine,Aspartic acid,0.922503173
+Valine,Lysine,0.920120776
+Valine,Glycine,0.919211626
+Carbapenem,Avibactam,0.907265544
+Carbapenem,Cefazolin,0.891421199
+Carbapenem,Vancomycin,0.886992335
+Carbapenem,Meropenem,0.878581524
+Carbapenem,Colistin,0.86779654
+Meropenem,Colistin,0.895742416
+Meropenem,Vancomycin,0.8943187
+Meropenem,Cefazolin,0.893055081
+Meropenem,Linezolid,0.887491763
+Meropenem,Avibactam,0.882928729
+Ropinirole,Brivaracetam,0.882504821
+Ropinirole,Sertraline,0.881221652
+Ropinirole,Rivaroxaban,0.880741596
+Ropinirole,Levocarnitine,0.876911163
+Ropinirole,Dapagliflozin,0.876502395
+Methylprednisolone,Dexamethasone,0.844767451
+Methylprednisolone,Cyclosporine,0.831534505
+Methylprednisolone,dose of Methotrexate,0.829849839
+Methylprednisolone,Triamcinolone,0.827364206
+Methylprednisolone,Methotrexate,0.82376349
+Sildenafil,Nifedipine,0.873320758
+Sildenafil,Ondansetron,0.868909359
+Sildenafil,Dapagliflozin,0.864492774
+Sildenafil,which PF Latanoprost,0.848941505
+Sildenafil,Albuterol,0.848318577
+of an Inositol,Inositol,0.95551765
+of an Inositol,of an Iodine,0.876660168
+of an Inositol,of cation-independent Mannose,0.87016654
+of an Inositol,Sorbitol,0.869238079
+of an Inositol,indolepyruvate and Indole,0.868819475
+Sulfadiazine,Thiamphenicol,0.910101891
+Sulfadiazine,Imidazole,0.900993526
+Sulfadiazine,Methoxsalen,0.898882627
+Sulfadiazine,Carbendazim,0.897052944
+Sulfadiazine,Carbazole,0.896384656
+Rivaroxaban,Apixaban,0.938942194
+Rivaroxaban,Dabigatran,0.906995893
+Rivaroxaban,Dapagliflozin,0.903151393
+Rivaroxaban,Eltrombopag,0.902723491
+Rivaroxaban,Ivacaftor,0.898659468
+Argatroban,Apixaban,0.920269132
+Argatroban,Granisetron,0.893301129
+Argatroban,Rivaroxaban,0.893217683
+Argatroban,Cenobamate,0.889895678
+Argatroban,Ranolazine,0.889606953
+Topiramate,Thiram,0.923044086
+Topiramate,Esketamine,0.891951799
+Topiramate,Perampanel,0.887812376
+Topiramate,Topiroxostat,0.883576095
+Topiramate,Azaperone,0.882970631
+Perampanel,Pomotrelvir,0.917727709
+Perampanel,Ponatinib,0.915951252
+Perampanel,Thiram,0.915130973
+Perampanel,Xanthine,0.913325667
+Perampanel,Tezacaftor,0.912766457
+Theanine,Taurine,0.92260927
+Theanine,Alanine,0.910368025
+Theanine,Esketamine,0.906849146
+Theanine,Silanol,0.904416859
+Theanine,Aniline,0.898374081
+Sertraline,Ranolazine,0.905989289
+Sertraline,Ranitidine,0.900900006
+Sertraline,Granisetron,0.896039844
+Sertraline,Famotidine,0.895860076
+Sertraline,Levocarnitine,0.894603193
+Raphanus sativus,Pineapple,0.843418479
+Raphanus sativus,Mangostin,0.834071159
+Raphanus sativus,Curcumin,0.832993686
+Raphanus sativus,Gibberellic acid,0.828628123
+Raphanus sativus,Glycyrrhiza glabra,0.828628123
+Spironolactone,Ergosterol,0.886988223
+Spironolactone,metabolites of Daidzin,0.883012772
+Spironolactone,Cysteamine or Lipoic acid,0.880896926
+Spironolactone,Levocarnitine,0.880205452
+Spironolactone,Bempedoic acid,0.878147244
+find elevated Norepinephrine,catabolism of Norepinephrine,0.925281703
+find elevated Norepinephrine,Norepinephrine,0.921332836
+find elevated Norepinephrine,reduction than Glucagon,0.86840421
+find elevated Norepinephrine,before epidural Morphine,0.861337781
+find elevated Norepinephrine,in the Dopamine,0.860704422
+catabolism of Norepinephrine,find elevated Norepinephrine,0.925281703
+catabolism of Norepinephrine,Norepinephrine,0.920709848
+catabolism of Norepinephrine,to catabolizing Tryptophan,0.901745498
+catabolism of Norepinephrine,of the Dopamine,0.869952798
+catabolism of Norepinephrine,in the Dopamine,0.865012825
+Isopropyl alcohol,Piperonyl butoxide,0.899500191
+Isopropyl alcohol,Polyvinyl alcohol,0.895705819
+Isopropyl alcohol,Chloroform,0.888926029
+Isopropyl alcohol,Tetramethylammonium,0.881205082
+Isopropyl alcohol,Formic acid,0.880159855
+Chlorhexidine,interaction between Florfenicol,0.86497438
+Chlorhexidine,Chloramphenicol,0.864692748
+Chlorhexidine,Hypochlorous acid,0.86185652
+Chlorhexidine,Chlortetracycline,0.858572841
+Chlorhexidine,Dichlorvo,0.858567417
+NADPH,Indium,0.884381652
+NADPH,Mescaline,0.877828598
+NADPH,Titanium,0.876160979
+NADPH,Cobalt,0.876108885
+NADPH,Turmeric,0.870889544
+Polymyxin B,Erythromycin,0.89245671
+Polymyxin B,Tobramycin,0.890916348
+Polymyxin B,Trypsin,0.875903904
+Polymyxin B,Natamycin,0.875702977
+Polymyxin B,Polysorbate 80,0.86848706
+Natamycin,Vancomycin,0.92381382
+Natamycin,Amoxicillin,0.900608063
+Natamycin,Tobramycin,0.897649705
+Natamycin,Rifampin,0.897234023
+Natamycin,Minocycline,0.895396054
+Lobaplatin,Carboplatin,0.950638056
+Lobaplatin,Cisplatin,0.948390007
+Lobaplatin,of developing Cisplatin,0.942067385
+Lobaplatin,prevention of Cisplatin,0.93367362
+Lobaplatin,Daunorubicin,0.91747272
+in defining Heparin,reports of Heparin,0.927937329
+in defining Heparin,Heparin,0.925708771
+in defining Heparin,for the Tucatinib,0.887143791
+in defining Heparin,Amiodarone,0.880409658
+in defining Heparin,in recognizing Florfenicol,0.880333483
+reports of Heparin,in defining Heparin,0.927937329
+reports of Heparin,Heparin,0.92305249
+reports of Heparin,in recognizing Florfenicol,0.866245508
+reports of Heparin,of developing Cisplatin,0.865606308
+reports of Heparin,Perampanel,0.864883423
+Andexanet alfa,Eltrombopag,0.904834032
+Andexanet alfa,Granisetron,0.895868599
+Andexanet alfa,Olaparib,0.88981849
+Andexanet alfa,Ponatinib,0.889640331
+Andexanet alfa,Enfortumab vedotin,0.889518797
+Asparagine,Aspartic acid,0.949484766
+Asparagine,Valine,0.917176008
+Asparagine,Alanine,0.913963377
+Asparagine,Arginine,0.91292125
+Asparagine,Cysteine,0.901456535
+Bisphenol A,Phenol,0.935084701
+Bisphenol A,Thiamphenicol,0.90323174
+Bisphenol A,Benzoic acid,0.898869514
+Bisphenol A,Piperonyl butoxide,0.894201756
+Bisphenol A,Aminobenzoic acid,0.891311824
+Avibactam,Carbapenem,0.907265544
+Avibactam,Colistin,0.897943258
+Avibactam,Vancomycin,0.891823411
+Avibactam,Cefazolin,0.891461492
+Avibactam,Meropenem,0.882928729
+Phosphatidylethanolamine,Cysteamine or Lipoic acid,0.815898836
+Phosphatidylethanolamine,find elevated Norepinephrine,0.78888905
+Phosphatidylethanolamine,catabolism of Norepinephrine,0.787096143
+Phosphatidylethanolamine,Norepinephrine,0.783107996
+Phosphatidylethanolamine,Acetylsalicylic acid,0.782338977
